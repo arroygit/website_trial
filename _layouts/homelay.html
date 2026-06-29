@@ -2,14 +2,28 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-8">
-        <div class="text-center">
-          <img style="position:relative; left:0px" src="{{ site.url }}{{ site.baseurl }}/images/logopic/favicon.png" height="120" width="auto" class="rounded float-right" alt="...">
-        </div>
-        <h1>Welcome to our website!  </h1>
+<div class="row">
 
-	{{ content }}
+  <div id="homeid" class="col-sm-8">
+
+    <!-- Header block -->
+    <div style="display: flex; align-items: center; gap: 15px; margin-bottom: 20px;">
+
+      <img src="{{ '/images/logopic/favicon.png' | relative_url }}"
+           height="120"
+           alt="logo" />
+
+      <h1 style="margin: 0;">Welcome to our website!</h1>
+
+    </div>
+
+    <!-- Page content -->
+    {{ content }}
+
   </div>
-  <div id="newsid" class="col-sm-4" >
-	{% include news.html %}
+
+  <div id="newsid" class="col-sm-4">
+    {% include news.html %}
   </div>
+
+</div>
