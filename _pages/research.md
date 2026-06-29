@@ -8,7 +8,7 @@ permalink: /research/
 ---
 
 # Our Research
- <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/favicon.png" />
+ <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/favicon.png" style="float: left; width: 120px; margin: 0 15px 10px 0;"/>
 
 Our vision is to develop methodologies for designing intelligent autonomous decision-making systems that are secure and resilient against malicious adversaries and natural failures. 
 
