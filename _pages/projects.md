@@ -1,5 +1,5 @@
 ---
-title: "SAtomic Photonic Integrated Circuits Laboratory - Projects"
+title: "Atomic Photonic Integrated Circuits Laboratory - Projects"
 layout: textlay
 excerpt: "Atomic Photonic Integrated Circuits Laboratory -- Projects."
 sitemap: false
