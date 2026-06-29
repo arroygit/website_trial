@@ -85,7 +85,7 @@ permalink: /publications/
 
 {%- for y in page.years %}
   <h3 class="year">{{y}}</h3>
-  {% bibliography -f uscl_publications -q @*[year={{y}}]* %}
+  {% bibliography -f apic_publications -q @*[year={{y}}]* %}
 {% endfor %}
 
 </div>
