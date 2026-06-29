@@ -1,7 +1,7 @@
 ---
-title: "Secure Learning and Control Lab - Projects"
+title: "SAtomic Photonic Integrated Circuits Laboratory - Projects"
 layout: textlay
-excerpt: "Secure Learning and Control Lab -- Projects."
+excerpt: "Atomic Photonic Integrated Circuits Laboratory -- Projects."
 sitemap: false
 permalink: /projects/
 ---
