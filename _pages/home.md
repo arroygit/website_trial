@@ -15,19 +15,17 @@ Our vision is to develop methodologies for designing intelligent autonomous deci
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
     </ol>
- 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
             <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/iisc_main_building.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/gulmohar_marg_iisc.jpg" alt="Slide 2" />
-        </div> 
+        </div>
         <div class="item">
             <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Cense_building.jpg" alt="Slide 3" />
         </div>
     </div>
-
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
@@ -44,9 +42,9 @@ Our research incorporates elements from cybersecurity, control theory, optimizat
 
 
 ### Scientific environment
-We are a dynamic research group at the [Centre for Nano Science and Engineering, Indian Institute of Science](https://www.iisc.ac.in/), Bangalore. We exchange ideas and work with our colleagues from the several of the Department's research areas, namely [Cybersecurity](https://www.it.uu.se/research/cybersecurity), [AI](https://www.it.uu.se/research/artificial-intelligence), [Data Science](https://www.it.uu.se/research/data-science), and [Control Systems](https://www.it.uu.se/research/control-and-dynamical-systems). 
+We are a dynamic research group at the [Centre for Nano Science and Engineering, Indian Institute of Science](https://www.iisc.ac.in/), Bangalore. We exchange ideas and work with our colleagues from the several of the Department's research areas, namely [Cybersecurity](https://www.it.uu.se/research/cybersecurity), [AI](https://www.it.uu.se/research/artificial-intelligence), [Data Science](https://www.it.uu.se/research/data-science), and [Control Systems](https://www.it.uu.se/research/control-and-dynamical-systems).
 
- **We are looking for driven new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are looking for driven new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 ### Our support
