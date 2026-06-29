@@ -1,7 +1,7 @@
 ---
-title: "Secure Learning and Control Lab - Home"
+title: "Atomic Photonic Integrated Circuits Laboratory - Home"
 layout: homelay
-excerpt: "Secure Learning and Control Lab at Uppsala University."
+excerpt: "Atomic Photonic Integrated Circuits Laboratory at IISc."
 sitemap: false
 permalink: /
 ---
