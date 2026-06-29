@@ -1,7 +1,7 @@
 ---
-title: "Secure Learning and Control Lab - Research"
+title: "Atomic Photonic Integrated Circuits Laboratory - Research"
 layout: gridlay2
-excerpt: "Secure Learning and Control Lab -- Research"
+excerpt: "Atomic Photonic Integrated Circuits Laboratory -- Research"
 sitemap: false
 tags: [10001, 10002,10003, 10004, 10005, 10006]
 permalink: /research/
@@ -53,7 +53,7 @@ Have a look at a popular science video about our research on developing secure c
 <div class="collapse" id="{{theme-item.key}}-bib"><div class="well-abs"><div class="publications">
 {%- for y in page.tags %}
 {%- if y == theme-item.tag -%}
-{% bibliography -f uscl_publications -q @*[tag={{y}}]* %}
+{% bibliography -f apic_publications -q @*[tag={{y}}]* %}
 {% endif %}
 {% endfor %}
 </div></div></div>
@@ -75,7 +75,7 @@ Have a look at a popular science video about our research on developing secure c
 <div class="collapse" id="{{theme-item.key}}-bib"><div class="well-abs"><div class="publications">
 {%- for y in page.tags %}
 {%- if y == theme-item.tag or y == theme-item.taga -%}
-{% bibliography -f uscl_publications -q @*[tag={{y}} || taga={{y}}]]* %}
+{% bibliography -f apic_publications -q @*[tag={{y}} || taga={{y}}]]* %}
 {% endif %}
 {% endfor %}
 </div></div></div>
