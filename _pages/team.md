@@ -1,5 +1,5 @@
 ---
-title: "Secure Learning and Control Lab - Team"
+title: "Atomic Photonic Integrated Circuits Laboratory - Team"
 layout: gridlay
 excerpt: "Team members"
 sitemap: false
