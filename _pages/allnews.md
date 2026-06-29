@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Secure Learning and Control Lab at Uppsala University."
+excerpt: "Atomic Photonic Integrated Circuits Laboratory at IISc."
 sitemap: false
 permalink: /allnews.html
 ---
