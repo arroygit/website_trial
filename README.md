@@ -2,4 +2,3 @@
 
 This is the website of our research group at IISc.
 
-This website is powered by Jekyll and some Bootstrap, Bootwatch. 
