@@ -1,7 +1,7 @@
 ---
-title: "Secure Learning and Control Lab - Publications"
+title: "Atomic Photonic Integrated Circuits Laboratory - Publications"
 layout: gridlay
-excerpt: "Secure Learning and Control Lab -- Publications."
+excerpt: "Atomic Photonic Integrated Circuits Laboratory -- Publications."
 sitemap: false
 years: [2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017]
 permalink: /publications/
