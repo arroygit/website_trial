@@ -1,5 +1,5 @@
 ---
-title: "Secure Learning and Control Lab - Vacancies"
+title: "Atomic Photonic Integrated Circuits Laboratory - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
