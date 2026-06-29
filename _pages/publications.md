@@ -76,7 +76,7 @@ permalink: /publications/
 ### Under Review
 <div class="publications">
   
-{% bibliography -f uscl_publications -q @*[published={{0}}]* %}
+{% bibliography -f apic_publications -q @*[published={{0}}]* %}
 
 </div>
 
