@@ -65,7 +65,7 @@ We are grateful for the early-career funding from [Uppsala University](http://ww
         <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/svart_fyrkant_eng.png" style="width: 120px">
     </div>
 
-    <div class="col-sm-2 clearfix vcenter">
+    <div class="col-sm-3 clearfix vcenter">
         <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ssf_gb_rgb-300x247.png" style="width: 124px">
     </div>
 
