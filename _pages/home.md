@@ -44,7 +44,7 @@ Our research incorporates elements from cybersecurity, control theory, optimizat
 
 
 ### Scientific environment
-We are a dynamic research group at the [Department of Information Technology, Uppsala University](http://www.it.uu.se), Sweden. We exchange ideas and work with our colleagues from the several of the Department's research areas, namely [Cybersecurity](https://www.it.uu.se/research/cybersecurity), [AI](https://www.it.uu.se/research/artificial-intelligence), [Data Science](https://www.it.uu.se/research/data-science), and [Control Systems](https://www.it.uu.se/research/control-and-dynamical-systems). We also have ongoing collaborations with our neighboring Department of Electrical Engineering. We are driving local research initiatives related to cybersecurity, through the [Graduate School in Cybersecurity](http://www.it.uu.se/research/research-arenas/security/graduate_school) and the [Cybersecurity Arena](http://www.it.uu.se/research/research-arenas/security).
+We are a dynamic research group at the [Centre for Nano Science and Engineering, Indian Institute of Science](https://www.iisc.ac.in/), Bangalore. We exchange ideas and work with our colleagues from the several of the Department's research areas, namely [Cybersecurity](https://www.it.uu.se/research/cybersecurity), [AI](https://www.it.uu.se/research/artificial-intelligence), [Data Science](https://www.it.uu.se/research/data-science), and [Control Systems](https://www.it.uu.se/research/control-and-dynamical-systems). 
 
  **We are looking for driven new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
