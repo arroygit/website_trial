@@ -74,4 +74,4 @@ We are grateful for the early-career funding from [Uppsala University](http://ww
 
 </div>
 
-See our funding and ongoing projects at our [Funding page](funding).
+
