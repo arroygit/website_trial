@@ -56,19 +56,15 @@ We are grateful for the early-career funding from [Uppsala University](http://ww
     <div class="col-sm-3 clearfix vcenter">
         <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UU_logo_4f125px.png" style="width: 125px">
     </div>
-
     <div class="col-sm-3 clearfix vcenter">
         <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/KAW_Logotype_Large.png" style="width: 125px">
     </div>
-
     <div class="col-sm-3 clearfix vcenter">
         <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/svart_fyrkant_eng.png" style="width: 120px">
     </div>
-
     <div class="col-sm-3 clearfix vcenter">
         <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ssf_gb_rgb-300x247.png" style="width: 124px">
     </div>
-
 </div>
 
 See our funding and ongoing projects at our [Funding page](funding).
