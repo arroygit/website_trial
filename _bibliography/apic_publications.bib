@@ -20,53 +20,6 @@
 	grantc = {KAW-WAF},
 }
 
-@article{Govaert_TCNS2026,
-	author = {A. Govaert and A. M. H. Teixeira},
-	journal = {IEEE Transaction on Control of Networked Systems (Submitted)},
-	title = {Linking global distances and local structures in networks},
-	abstract={},
-	published={0},
-  	arxiv={},
-	tag = {},
-	grant = {VR2021-AT}
-}
-
-@article{Govaert_Arxiv2025,
-	author = {A. Govaert and A. M. H. Teixeira and E. Tegling},
-	journal = {Under preparation},
-	title = {The diverse and fair structures of growth with scale-free saturations},
-	abstract={Real-world growth processes and scalings have been broadly categorized into three growth regimes with distinctly different properties and driving forces. The first two are characterized by a positive and constant feedback between growth and growth rates which in the context of networks lead to scale-free or single-scale networks. The third, sublinear, regime is characteristic of biological scaling processes and those that that are driven by optimization and efficiency. These systems are characterized by a negative feedback in growth rates and as such naturally exhibit saturations, i.e., areas where growth ceases from a lack of resources. Motivated by this observation, we propose and analyze a simple network growth process that is analogous to this sublinear regime and characterize how its scale-free saturations impact the diversity and fairness of its structural properties and give rise to scaling relations observed throughout complex systems and science.},
-	published={0},
-  	arxiv={2503.15424},
-	tag = {},
-	grant = {VR2021-AT}
-}
-
-@article{Dong_Automatica2026,
-	author = {J. Dong and A. M. H. Teixeira},
-	journal = {Automatica (submitted)},
-	title = {Stealthy bias injection attack detection based on Kullback-Leibler divergence in stochastic linear systems},
-	abstract={This paper studies the design of detection observers against stealthy bias injection attacks in stochastic linear systems under Gaussian noise, considering adversaries that exploit noise and inject crafted bias signals into a subset of sensors in a slow and coordinated manner, thereby achieving malicious objectives while remaining stealthy. To address such attacks, we formulate the observer design as a max-min optimization problem to enhance the detectability of worst-case BIAs, which attain a prescribed attack impact with the least detectability evaluated via Kullback-Leibler divergence. To reduce the computational complexity of the derived non-convex design problem, we consider the detectability of worst-case BIAs at three specific time instants: attack onset, one step after attack occurrence, and the steady state. We prove that the Kalman filter is optimal for maximizing the BIA detectability at the attack onset, regardless of the subset of attacked sensors. For the one-step and steady-state cases, the observer design problems are approximated by bi-convex optimization problems, which can be efficiently solved using alternating optimization and alternating direction method of multipliers. Moreover, more tractable linear matrix inequality relaxations are developed. Finally, the effectiveness of the proposed stealth-aware detection framework is demonstrated through an application to a thermal system.},
-	published={0},
-  	arxiv={2601.14984},
-	tag = {},
-	grant = {SSF2020-AT},
-	grantb = {VR2023-AT},
-	grantc = {KAW-WAF},
-}
-
-
-@article{Gurpegui_LCSS2026,
-	author = {A. Gurpegui and S. C. Anand and A. M. H. Teixeira},
-	journal = {IEEE Control Systems Letters (accepted)},
-	title = {Scalable Design of Attack-Resilient Controllers for Positive Systems},
-	abstract={This paper proposes a framework for secure and resilient controller design for positive systems against cyber-attacks. In particular, we consider a network-controlled system where an adversary injects false data into the actuator channels to increase the control cost (performance measure) while minimizing the attack effort (energy) and subject to state-dependent constraints. Using a minimax formulation, we analyze the worst-case performance loss caused by such adversaries, which is given by the solution of a difference equation, and an algebraic equation when the time horizon is infinite. We show that the optimal attack policy, among possible nonlinear policies, is linear. Despite the lack of explicit stealthiness constraints, we also show that when the measured output has an unstable zero which is not an unstable zero of the performance measure, the attacks can induce unbounded performance degradation. The proposed framework is also extended to systems with model uncertainty. Numerical examples illustrate the results and demonstrate how tools from positive systems and linear regulator theory can be used to mitigate cyber-attacks with low computational effort.},
-	published={1},
-  	arxiv={},
-	tag = {},
-	grant = {VR2021-AT},
-	granta = {SSF2020-AT},
-}
 
 @inproceedings{Kjellqvist_CDC2026,
 	author = {V. Kjellqvist$ and P. Mattsson and T. Wigren and A. M. H. Teixeira},
@@ -81,67 +34,6 @@
 }
 
 
-
-
-
-@article{Ramos_TAC2025,
-	author = {G. Ramos and D. Silvestre and A. M. H. Teixeira and S. Pequito},
-	journal = {IEEE Trans. Automatic Control (Submitted)},
-	number = {},
-	pages = {},
-	title = {Accurate Average Consensus with Joint Resilience and Privacy Guarantees},
-    	abstract = {This paper addresses achieving private and resilient average consensus among discrete-time networked agents without compromising accuracy. While state-of-the-art solutions entail explicit trade-offs between privacy, resilience, and accuracy, we propose a methodology that avoids such compromises. Our approach enables non-faulty agents to reach consensus in the presence of faulty agents while keeping initial states private through strategic noise injection and removal. Unlike previous methods, our approach avoids computing left-eigenvectors, eliminating numerical inaccuracies, and achieves polynomial time complexity that scales better than existing methods requiring network augmentation. Additionally, our method provides the strongest privacy protection with zero information leakage while maintaining exact consensus accuracy, unlike approaches that trade accuracy for privacy. We illustrate the method with examples covering diverse faulty agent scenarios.},
-	volume = {},
-	year = {},
-	arxiv={2503.19453},
-	published={0},
-	tag = {10006},
-	grant = {VINNOVA2023-ST}
-}
-
-@article{Gallo_TAC2025,
-	author = {A. Gallo and A. T. Nguyen and G. Oliva and A. M. H. Teixeira},
-	journal = {IEEE Trans. Automatic Control (Submitted)},
-	number = {},
-	pages = {},
-	title = {On the Boundedness of the Solution to the Output-to-output l2-gain Strategic Stealthy Attacks Problem},
-    abstract = {This paper investigates the output-to-output l2-gain problem in the context of strategic stealthy attacks on networked control systems. We derive necessary and sufficient conditions for the boundedness of the gain by leveraging duality, dissipativity, and applying the semidefinite version of the Farkas Lemma. The analysis yields a rigorous characterization of attack feasibility: we equivalently formulate the problem as a definite programming problem and we show that it admits a solution if and only if the non-minimum phase zeros of the detection subsystem are shared with the performance subsystem. This condition enables the precise assessment of an attacker’s ability to induce maximal disruption while evading detection. The proposed framework offers both theoretical insight and a tractable computational formulation that facilitates practical vulnerability analysis. The obtained results are validated through numerical examples.},
-	volume = {},
-	year = {},
-	published={0},
-	tag = {10005},	
-	grant = {SSF2020-AT},
-	grantc = {KAW-WAF},
-}
-
-
-
-@article{Dong_TCST2025,
-	author = {Jingwei Dong and Mahdieh S. Sadabadi and Per Mattsson and  Andr\'{e} Teixeira},
-	journal = {IEEE Trans. Control System Technology (Submitted)},
-	volume = {},
-	number = {},
-	pages = {},
-	title = {Distributed Multiple Fault Detection and Estimation in DC Microgrids with Unknown Power Loads},
-  abstract = {This paper proposes a distributed diagnosis scheme to detect and estimate actuator and power line faults in DC microgrids subject to unknown power loads and stochastic noise. To address actuator faults, we design a fault estimation filter whose parameters are determined through a tractable optimization problem to achieve fault estimation, decoupling from power line faults, and robustness against noise. In contrast, the estimation of power line faults poses greater challenges due to the inherent coupling between fault currents and unknown power loads, which becomes ill-posed when the underlying system is insufficiently excited. To the best of our knowledge, this is the first study to address this critical yet underexplored issue. Our solution introduces a novel differentiate-before-estimate strategy. A set of diagnostic rules based on the temporal characteristics of a constructed residual is developed to distinguish load changes from line faults. Once a power line fault is detected, a regularized least-squares method is activated to estimate the fault currents, for which we further derive an upper bound on the estimation error. Finally, comprehensive simulation results validate the effectiveness of the proposed methods.},
-	year = {},
-	published={0},
-	tag = {},
-	grant = {VR2021-AT}
-}
-
-@article{Zafar_TDSC2025,
-      title={Robust Federated Learning Against Poisoning Attacks: A GAN-Based Defense Framework}, 
-      journal = {(In preparation)},
-      author={Usama Zafar and André M. H. Teixeira and Salman Toor},
-      abstract={Federated Learning (FL) enables collaborative model training across decentralized devices without sharing raw data, but it remains vulnerable to poisoning attacks that compromise model integrity. Existing defenses often rely on external datasets or predefined heuristics (e.g. number of malicious clients), limiting their effectiveness and scalability. To address these limitations, we propose a privacy-preserving defense framework that leverages a Conditional Generative Adversarial Network (cGAN) to generate synthetic data at the server for authenticating client updates, eliminating the need for external datasets. Our framework is scalable, adaptive, and seamlessly integrates into FL workflows. Extensive experiments on benchmark datasets demonstrate its robust performance against a variety of poisoning attacks, achieving high True Positive Rate (TPR) and True Negative Rate (TNR) of malicious and benign clients, respectively, while maintaining model accuracy. The proposed framework offers a practical and effective solution for securing federated learning systems.},
-      year={},
-      arxiv={2503.20884},
-      published={0},
-      tag={10003},
-      grant = {VINNOVA2023-ST},
-      granta = {UU2022-ST},
-}
 
 %%%%%%%%%%% Up: under review
 
