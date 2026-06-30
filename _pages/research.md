@@ -8,7 +8,7 @@ permalink: /research/
 ---
 
 # Our Research
- <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Innovation at nexus.png" style="float: left; width: 200px; margin: 0 15px 10px 0;"/>
+ <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Innovation at nexus.png" style="float: left; width: 400px; margin: 0 15px 10px 0;"/>
 
 <div style="text-align: justify;">
 Our vision is to develop technologies that enable the miniaturization of atom-based systems into platforms that are scalable, compact, energy-efficient, and robust to unavoidable external perturbations. By engineering reliable, high-performance quantum systems, we aim to access previously unexplored regimes and address pressing challenges in the field, enabling both fundamental scientific discovery and technological advances in quantum computing and precision metrology.
@@ -21,10 +21,10 @@ The technologies we develop have applications that extend beyond quantum systems
 
 [//]: # (For a high-level summary of a selection of our results, see [Research Results](research_results).)
 
-Have a look at a popular science video about our research on developing secure control systems. You can also find some of our recent research themes described at the end of this page.
+Have a look at a video from one of the leading start-ups in trapped-ion quantum hardware [Quantinuum]{https://www.quantinuum.com/} to gain an overview of current research efforts and the state-of-the-art platform in the field.. You can find some of our recent research themes described at the end of this page.
 
 ## Popular science video
-{% include youtubePlayer.html id="k01OGxClLXE?si=Awnl9VCWb7bxCm_F" %}
+{% include youtubePlayer.html id="6ZIdE9VnvfM" %}
 
 
 
