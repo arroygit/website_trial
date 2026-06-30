@@ -16,9 +16,9 @@ permalink: /openings
 
 
 **Fascinated by quantum physics and possess strong engineering skills?**
-_Coming together is a beginning, keeping together is progress, and working together is success._
 
-We are always looking for passionate and talented graduate students and postdoctoral scholars to join our group. If you are interested in pushing the frontiers of atom-based quantum technologies, integrated photonics and microsystems, please contact 
+
+We are always looking for passionate and talented graduate students and postdoctoral scholars to join our group. If you are interested in pushing the frontiers of atom-based quantum technologies, integrated photonics, and microsystems, please contact 
 
 
 ### Applications for PhD and Postdoc positions
@@ -35,5 +35,5 @@ At the moment, we have several proposals for MSc thesis projects at our group, c
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/UU_students_ad_photo.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab Team image.png" width="95%">
 </figure>
