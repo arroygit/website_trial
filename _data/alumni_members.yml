@@ -1,13 +1,7 @@
-- name: Alain Govaert
-  photo: Alain.jpg
-  position: Postdoc
-  duration: 2023 - 2025
-  ORCID: 0000-0001-8223-4553
-  info_current: 
-  website: 
+
 
 - name: Daniel Arnström
-  photo: daniel.jpeg
+  photo: bio-photo.jpeg
   position: Postdoc
   duration: 2023 - 2025
   ORCID: 0000-0003-0970-0620
