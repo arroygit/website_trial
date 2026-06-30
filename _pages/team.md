@@ -37,11 +37,36 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students).
+Jump to [PhD students and Postdocs](#PhD students and Postdocs), [master and bachelor students](#master-and-bachelor-students).
 {::comment}
 , [alumni](#alumni), [lab visitors](#lab-visitors).
 {:/comment}
 
+## Principal Investigator
+{% for member in site.data.pi_members %}
+
+<div class="row">
+
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  
+  <div style='margin-left:20%;'>
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  
+  <p style="font-size:.8em">{{ member.short_bio }}</p>
+  </div>
+
+  <p style="clear:both;"></p>
+  <button class="button black" onclick="window.location.href='{{ member.website }}'" type="button">
+  {{ member.name }}'s Personal Website</button>
+
+</div>
+
+</div>
+
+
+{% endfor %}
 
 ## PhD students and Postdocs
 {% for member in site.data.team_members %}
