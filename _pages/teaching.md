@@ -8,15 +8,23 @@ permalink: /teaching/
 
 # Teaching
 
-## Current Courses
+### [Course Code]: [Course Title]
 
-**Course Name** — *IISc, Semester, Year*  
-Brief description of the course.
+Brief description of the course. Prerequisites, goals, and outcomes go here.
+The course syllabus is [here]({{ site.url }}{{ site.baseurl }}/assets/syllabus_coursename.pdf).
 
-**Another Course** — *IISc, Semester, Year*  
-Brief description.
+#### Offering semesters:
 
-## Past Courses
+- 
+- 
 
-- **Course Name** (Year) — Description
-- **Another Course** (Year) — Description
+---
+
+### [Course Code]: [Another Course Title]
+
+Brief description of this course. The course syllabus is [here]({{ site.url }}{{ site.baseurl }}/assets/syllabus_course2.pdf).
+
+#### Offering semesters:
+
+- 
+- 
