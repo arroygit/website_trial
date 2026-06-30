@@ -10,8 +10,7 @@ permalink: /
 
 <div style="text-align: justify;">
 
-Our vision is to develop technologies that enable the miniaturization of atom-based systems into platforms that are scalable, compact, energy-efficient, and resilient to environmental perturbations. By engineering reliable, high-performance quantum systems, we aim to unlock previously inaccessible regimes for both fundamental scientific discovery and transformative technological advances in quantum computing and precision metrology.
-
+Our vision is to develop technologies that enable the miniaturization of atom-based systems into platforms that are scalable, compact, energy-efficient, and resilient to environmental perturbations. By engineering reliable, high-performance quantum systems, we aim to access previously unexplored regimes and address pressing challenges in the field, enabling both fundamental scientific discovery and technological advances in quantum computing and precision metrology.
 </div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
