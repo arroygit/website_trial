@@ -30,12 +30,6 @@ You will take an acive role in determining the important and interesting researc
 
 
 
-### Past open positions
-
-You find some of the past job openings here:
-* [PhD position in Automatic Control focusing on Secure Control Systems]({{ site.baseurl }}/assets/vacancies/PhD_SSF_2023.pdf),
-* [Postdoc positions in Secure Learning and Control]({{ site.baseurl }}/assets/vacancies/PD_SSF_VR_2022.pdf),
-* [PhD in Scientific Computing with focus on Cybersecurity and Machine Learning for Critical Infrastructures]({{ site.baseurl }}/assets/vacancies/PhD_essence_2022.pdf).
 
 ### Applications for PhD and Postdoc positions
 Applications for fully-funded PhD or Postdoc positions can only be done for a specific advertisement and through the [official application portal](https://uu.varbi.com/). All positions at Uppsala University are advertised at the [university website](https://www.uu.se/en/about-uu/join-us/jobs/).
@@ -48,8 +42,6 @@ If you are a Master or Bachelor student at Uppsala University looking for a degr
 
 At the moment, we have several proposals for MSc thesis projects at our group, candidates are interviewed continuously **until early December 2023**. See [the list and details](https://tinyurl.com/MSc-SysCon-GD) for how to apply!
 
-### Master students from elsewhere
-If you are interested in pursuing a Master degree at Uppsala University, see [the University's website](https://www.uu.se/en/admissions/master/). We may take external master students for a degree project or a short stay on their own funding, if we get exceptional applicants (this usually means very good grades and a personal recommendation).
 
 
 <figure>
