@@ -1,6 +1,6 @@
 - name: André Teixeira
   photo: Teixeira1.jpg
-  info: Associate Professor, Lab Director
+  info: Assistant Professor, Principal Investigator
   short_bio: André Teixeira is an Associate Professor at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the M.Sc. degree in electrical and computer engineering from the Faculdade de Engenharia da Universidade do Porto, Porto, Portugal, in 2009, and the Ph. D. degree in automatic control from the KTH Royal Institute of Technology, Stockholm, Sweden, in 2014. From 2014 to 2015, he was a Postdoctoral Researcher at the Department of Automatic Control, KTH Royal Institute of Technology, Stockholm, Sweden. From October 2015 to August 2017, Teixeira was an Assistant Professor in Cybersecurity of Critical Infrastructures at the Faculty of Technology, Policy and Management, Delft University of Technology, The Netherlands. From September 2017 to April 2021, he was an Assistant Professor at the Department of Electrical Engineering at Uppsala University. Teixeira was a recipient for the Best Student-Paper Award from the IEEE Multi-Conference on Systems and Control in 2014, and an Honorable Mention for the Paul M. Frank Award at the IFAC SAFEPROCESS 2018. He was awarded a Starting Grant by the Swedish Research Council in 2018, and he is among the 20 young researchers in Sweden who received the Future Research Leaders 7 grant by the Swedish Foundation for Strategic Research in 2020. He was awarded the Lilly and Sven Thuréus prize in 2023 by The Royal Society of Sciences at Uppsala. In 2023, André was appointed as a Wallenberg Academy Fellow by the Knut and Alice Wallenberg Foundation.
   email: andre.teixeira@it.uu.se
   website: https://www.andre-teixeira.eu
@@ -23,31 +23,8 @@
 #  education3:
 #  education4:  
   
-- name: Salman Toor
-  photo: Toor.png
-  info: Associate Professor
-  short_bio: Salman Toor is an Associate Professor at the Division of Scientific Computing, Department of Information Technology, Uppsala University, Sweden. He earned his Masters and PhD in Scientific Computing from Uppsala University. In 2014, Toor finished his postdoctoral research from CMS program, Helsinki Institute of Physics, Finland. His area of expertise includes management, scalability and performance of distributed infrastructures for scientific applications. Toor is an active member of Distributed Computing Applications (DCA) group at Uppsala University. From 2015-2017, Toor was employed as a researcher in the Department of Information Technology, Uppsala University and as a senior cloud architect at Swedish National Infrastructure for Computing (SNIC). His research focuses on Distributed Computing Infrastructures.
-  topics:
-  email: salman.toor@it.uu.se
-  website: https://www.uu.se/en/contact-and-organisation/staff?query=N7-398
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:  
-  
-- name: Torbjörn Wigren
-  photo: Torbjorn.jpg
-  info: Guest Researcher
-  short_bio: Torbjörn Wigren is a Guest Researcher at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the M.Sc. degree in engineering physics (electrical engineering) in 1985, and the Dr. of Technology degree in automatic control in 1990, both from Uppsala University, Uppsala Sweden. His main employer from 2001 is Ericsson AB, where he is a Principal Developer, responsible for R&D on radio near feedback control and signal processing algorithms for 5G and 6G cellular systems. Before joining Ericsson, he held positions with Bofors Aerotronics (1985-1991), Ericsson Radio Systems (1991-1995) and Celsius Tech Systems (1995-2001) where he was involved in development of fire control systems, audio signal processing, and passive air-target tracking. During 2000 - 2018 he was Adjunct Professor of Automatic Control at Uppsala University. His research is focused on nonlinear dynamic systems, including recursive identification, optimal control and estimation, as well as on the use of feedback principles in machine learning.
-  topics:
-  email: Torbjorn.Wigren@it.uu.se
-  website: https://www.uu.se/kontakt-och-organisation/personal?query=N0-536
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:  
+ 
+    
   
 - name: Per Mattsson
   photo: PerMatsson1.jpg
@@ -88,18 +65,7 @@
   education3:
   education4:  
 
-- name: Javad Parsa
-  photo: Javad.jpg
-  info: Postdoc, started October 2024
-  short_bio: I am currently a Postdoctoral researcher in the Division of Systems and Control at Uppsala University. In 2024, I obtained my PhD from the Division of Decision and Control Systems at KTH Royal Institute of Technology, where I was supervised by Prof. Håkan Hjalmarsson. Prior to that, I completed my M.Sc. in Communication and Signal Processing in 2019 at the Department of Electrical Engineering, Sharif University of Technology. My research interests lie in the areas of machine learning, system identification and signal processing.
-  topic: 
-  email:  javad.parsa@it.uu.se
-  website: https://www.uu.se/en/contact-and-organisation/staff?query=N24-2238
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:    
+  
 
 #- name: Sribalaji C. Anand
 #  photo: Anand1.jpg
@@ -151,88 +117,8 @@
   number_educ: 0
   education1:  
 
-- name: Lovisa Eriksson
-  photo: lovisa.jpg
-  info: Ph.D. student, started August 2023
-  short_bio: Lovisa Eriksson is a Ph.D. student at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. She works under the supervision of Prof. André Teixiera and Prof. Dave Zachariah. Her research interests include machine learning, security and privacy, and decision theory. She earned her B.S.s degree in Mathematics 2021, and her M.S.s degree in Data Science 2023, both from Uppsala University.
-  topics: 
-  email: lovisa.eriksson@it.uu.se
-  website: https://lovisaluna.github.io/
-  number_educ: 0
-  education1:  
 
-- name: Alessandro Varalda
-  photo: alessandro.jpg
-  info: Ph.D. student, started September 2023
-  short_bio: Alessandro Varalda was born in Vercelli, Italy, in December 1996. He received the B.Sc. degree in Electronic Engineering in September 2018 and the M.Sc. degree in Mechatronics Engineering in July 2021 from Politecnico di Torino (Turin, Italy). Since September 2023, he is enrolled as a PhD student at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. His current research work, titled “Closing the loop in real-time cyber-neural systems”, aims to exploit the application of fundamental topics of control theory, with a specific interest to discrete-time fractional order system, to the field of neuroscience. His main objective is to bring improvement to the dynamical models adopted to describe neurological diseases, such as Epilepsy and seizures.
-  topics: 
-  email: alessandro.varalda@it.uu.se
-  website: https://www.uu.se/kontakt-och-organisation/personal?query=N23-888
-  number_educ: 0
-  education1:  
 
-- name: Ville Mattsson Kjellqvist
-  photo: bio-photo.jpg
-  info: Ph.D. student, started June 2024
-  short_bio: Ville Kjellqvist is a Ph.D. student at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He works under supervision of André Teixeira, Per Mattsson and Torbjörn Wigren. His current research is in security vulnerabilities in data driven control, in the context of strategic adversaries. He got his Master’s in Electrical Engineering in 2024, with a focus on Control, Signal Processing and Embedded Systems.
-  topics: 
-  email: ville.mattssonkjellqvist@it.uu.se
-  website: https://www.uu.se/en/contact-and-organisation/staff?query=N18-2352
-  number_educ: 0
-  education1:  
 
-- name: Xinyu Wei
-  photo: Wei.jpg
-  info: Ph.D. student, started September 2024
-  short_bio: Xinyu Wei is a Ph.D. student at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He was born is 1998, Beijing, the capital of China. He received the M.Sc. degree in Automation (2 years in Tsinghua University + 3 years in Beijing University of Technology) and the B.S. degree in Control Science and Engineering from Beijing University of Technology in China in 2021 and 2024, respectively.  He is currently conducting research in automatic control focusing on distributed voltage control under the supervision of Prof. André Teixeira and Prof. Henrik Sandberg. His research interests include control theory, power systems, formal methods for control, and networked control systems.
-  topics: 
-  email: xinyu.wei@it.uu.se
-  website: https://www.uu.se/en/contact-and-organisation/staff?query=N24-1837
-  number_educ: 0
-  education1:  
-       
-- name: Filipe Pereira de Farias
-  photo: filipe.jpg
-  info: Ph.D. student, started November 2025
-  short_bio: Filipe P. de Farias is a Ph.D. student in the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden, under the supervision of André Teixeira and Christos Verginis. His research interests include the control of stochastic dynamical systems, information theory, and machine learning. He received his B.Sc. degree in Telecommunications Engineering, with an emphasis on Signals and Systems, from the Federal University of Ceará, Brazil, in 2022. From August to December 2022, he was a visiting student at Aalto University, Finland, in the Group of Process Control and Automation. In 2025, he obtained his M.Sc. degree in Teleinformatics Engineering, with an emphasis on Pattern Recognition and Dynamical Systems, from the Federal University of Ceará.
-  topics: 
-  email: filipe.pereira-de-farias@it.uu.se
-  website: https://www.uu.se/en/contact-and-organisation/staff?query=N25-2344
-  number_educ: 0
-  education1:  
 
-# - name: Adrian Gheorghiu
-#   photo: bio-photo.jpg
-#   info: Ph.D. student, started January 2026
-#   short_bio: Adrian is an Industrial Ph.D. student employed at Zenseact, pursuing a PhD degree at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden.
-#   topics: 
-#   email: @it.uu.se
-#   website: https://www.uu.se/en/contact-and-organisation/staff?query=N26
-#   number_educ: 0
-#   education1: 
-
-  # - name: Daniel Arnström
-  # photo: daniel.jpeg
-  # info: Postdoc, started August 2023
-  # short_bio: Daniel Arnström is a Postdoc at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the Ph.D in automatic control from Linköping University, Sweden, in 2023. Previously, he had received M.Sc and Licentiate degrees from Linköping University in 2018 and 2021, respectively. At the 22nd World Congress of the International Federation of Automatic Control (IFAC) he was awarded the Young Author Prize (YAP) for his work on embedded optimization solvers. His research interests include reliable embedded optimization and reliable real-time Model Predictive Control (MPC); for reliability, his research interests include computational, safety, and security aspects.
-  # topic: 
-  # email: daniel.arnstrom@it.uu.se
-  # website: https://darnstrom.github.io/
-  # number_educ: 0
-  # education1: 
-  # education2:
-  # education3:
-  # education4:
-
-  # - name: Alain Govaert
-  # photo: Alain.jpg
-  # info: Postdoc, started September 2023
-  # short_bio: Alain Govaert is a Postdoctoral researcher at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the M.Sc. degree in Industrial Engineering and the Ph.D. degree in automatic control from the Faculty of Sciences at University of Groningen in the Netherlands in 2015 and 2020, respectively. His research interests include complex systems theory, game theory, random graphs, and control systems.
-  # topic: 
-  # email: alain.govaert@it.uu.se
-  # website: https://www.uu.se/en/contact-and-organisation/staff?query=N23-2090
-  # number_educ: 0
-  # education1: 
-  # education2:
-  # education3:
-  # education4:  
+ 
