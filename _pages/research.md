@@ -10,7 +10,7 @@ permalink: /research/
 # Our Research
 
 <div style="text-align: justify;">
-<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Innovation at nexus.png" style="float: left; width: 400px; margin: 0 15px 10px 0;"/>
+<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Innovation_at_nexus.png" style="float: left; width: 400px; margin: 0 15px 10px 0;"/>
 Our vision is to develop technologies that enable the miniaturization of atom-based systems into platforms that are scalable, compact, energy-efficient, and robust to unavoidable external perturbations. By engineering reliable, high-performance quantum systems, we aim to access previously unexplored regimes and address pressing challenges in the field, enabling both fundamental scientific discovery and technological advances in quantum computing and precision metrology.
 <div style="clear: both;"></div>
 <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/physics_to_engineering.png" style="float: left; width: 400px; margin: 0 15px 10px 0;"/>
