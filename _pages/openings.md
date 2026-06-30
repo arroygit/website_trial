@@ -24,9 +24,23 @@ Currently, we are expanding our group and are looking for passionate and talente
 ### Applications for PhD positions
 Prospective PhD candidates should apply through the IISc admissions process for the August (annual) and January (mid-year) intakes. Applications for these cycles typically open around March and September, respectively. Interested candidates are welcome to contact us (please send an [email](mailto:andre.teixeira@it.uu.se)) in advance with their CV and a brief statement of research interests to explore potential opportunities in our group. All admissions at IISc are advertised at the [university website](https://admissions.iisc.ac.in/).
 
+Students having external funding like INSPIRE, UGC NET(JRF) are encouraged to apply.
+
 
 ### Applications for Postdoc positions
-Interested post-doctoral fellows should consider IISc postdoc fellowships and various national funding schemes (NPDF, DS Kothari, CSIR, DBT, Inspire, etc.).
+We welcome applications from candidates with a background in physics, and electrical engineering. Desirable qualifications include:
+
+clean room experience, device fabrication, theory and experimental research in quantum optics, atomic physics, integrated photonics, micro-electro-mechanical systems.
+
+Here is the list of a few funding opportunities:
+
+[IISc Postdoctoral Fellowship](https://www.iisc.ac.in/careers/post-doctoral-fellowship/)
+
+[ANRF National Post Doctoral Fellowship (N-PDF)](https://anrfonline.in/ANRF/npdf)
+
+[DST Women Scientist Fellowship](https://dst.gov.in/scientific-programmes/wise-kiran)
+
+[CSIR Nehru Science Postdoctoral Research Fellowship](https://www.csirhrdg.res.in/Home/Index/1/Default/3497/55)
 
 Interested candidates are welcome to contact us (please send an [email](mailto:andre.teixeira@it.uu.se)) in advance with their CV and a brief statement of research interests to explore potential opportunities in our group.
 
