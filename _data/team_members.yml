@@ -1,5 +1,5 @@
 - name: André Teixeira
-  photo: Teixeira1.jpg
+  photo: bio-photo.jpg
   info: Assistant Professor, Principal Investigator
   short_bio: André Teixeira is an Associate Professor at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the M.Sc. degree in electrical and computer engineering from the Faculdade de Engenharia da Universidade do Porto, Porto, Portugal, in 2009, and the Ph. D. degree in automatic control from the KTH Royal Institute of Technology, Stockholm, Sweden, in 2014. From 2014 to 2015, he was a Postdoctoral Researcher at the Department of Automatic Control, KTH Royal Institute of Technology, Stockholm, Sweden. From October 2015 to August 2017, Teixeira was an Assistant Professor in Cybersecurity of Critical Infrastructures at the Faculty of Technology, Policy and Management, Delft University of Technology, The Netherlands. From September 2017 to April 2021, he was an Assistant Professor at the Department of Electrical Engineering at Uppsala University. Teixeira was a recipient for the Best Student-Paper Award from the IEEE Multi-Conference on Systems and Control in 2014, and an Honorable Mention for the Paul M. Frank Award at the IFAC SAFEPROCESS 2018. He was awarded a Starting Grant by the Swedish Research Council in 2018, and he is among the 20 young researchers in Sweden who received the Future Research Leaders 7 grant by the Swedish Foundation for Strategic Research in 2020. He was awarded the Lilly and Sven Thuréus prize in 2023 by The Royal Society of Sciences at Uppsala. In 2023, André was appointed as a Wallenberg Academy Fellow by the Knut and Alice Wallenberg Foundation.
   email: andre.teixeira@it.uu.se
@@ -28,7 +28,7 @@
 
 
 - name: Ruslan Seifullaev
-  photo: ruslan.jpg
+  photo: bio-photo.jpg
   info: Postdoc, started August 2023
   short_bio: Ruslan Seifullaev is a Postdoctoral Researcher at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the Diploma (M.Sc.) degree in theoretical cybernetics and the Candidate of Science (Ph.D.) degree in discrete mathematics and mathematical cybernetics from St. Petersburg University in 2012 and 2016, respectively. From 2014 to 2018, he was employed as a Research Engineer at the Institute of Problems in Mechanical Engineering of Russian Academy of Sciences. In 2023, he received the Ph.D. degree in signal processing from the Division of Signals and Systems, Uppsala University. His research interests include nonlinear control theory, time-delay systems, and networked control systems.
   topics: 
@@ -40,18 +40,7 @@
   education3:
   education4:
 
-- name: Jingwei Dong
-  photo: jingwei.jpg
-  info: Postdoc, started January 2024
-  short_bio: Jingwei Dong is a Postdoctoral Researcher at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He received the M. Eng degree in Control Science and Engineering from Harbin Institute of Technology, China, in 2018, and the Ph.D. degree in Systems and Control from Delft Center for Systems and Control, TU Delft, The Netherlands, in 2023. His research interests include optimization-based fault diagnosis, security of cyber-physical systems, control theory, and optimization methods.
-  topic: 
-  email:  jingwei.dong@it.uu.se
-  website: https://www.uu.se/en/contact-and-organisation/staff?query=N24-18
-  number_educ: 0
-  education1: 
-  education2:
-  education3:
-  education4:  
+
 
   
 
@@ -76,7 +65,7 @@
 #   education1: 
 
 - name: Anh Tung Nguyen
-  photo: Tung1.jpg
+  photo: bio-photo.jpg
   info: Ph.D. student, started May 2021
   short_bio: Anh Tung Nguyen is a Ph.D. student at the Division of Systems and Control, Department of Information Technology, Uppsala University, Sweden. He was born in 1995, Hanoi city, the capital of Vietnam. He received the Degree of Engineer in Automatic Control (5-year Talent program) from the Department of Automatic Control, Hanoi University of Science and Technology, Hanoi, Vietnam in 2018. In 2017, he was selected as Top 10 Young Engineer and Scientist Award granted by the Honda Foundation. He received the Degree of Master of Engineering in Aerospace Engineering from the Department of Aerospace Engineering, Sejong University, Seoul, Korea in 2021. Tung was visiting sholars at Kyushu University, Japan (2018), University of Cyprus, Cyprus (2023), and Lund University, Sweden (2024). Tung was a recipient for the Outstanding Student paper from the CSS-TC Network and Communication Systems. His research interests include control theory, multi-agent systems, and cyber-physical security.
   topics: 
@@ -86,7 +75,7 @@
   education1: 
 
 - name: Zhenlu Sun
-  photo: Zhenlu.jpg
+  photo: bio-photo.jpg
   info: Ph.D. student, started October 2022
   short_bio: Zhenlu Sun is a Ph.D. student at the Division of Scientific Computing, Department of Information Technology, Uppsala University, Sweden. He received the Bachelor's Degree in Measurement and Control Technology and Instrument from Shanghai Maritime University, Shanghai, China. He received the Master's Degree in Control Science and Engineering from Beijing Institute of Technology, Beijing, China. Zhenlu worked at Intel China for three years, focusing on design and development of cloud computing and edge computing under the 5G telecom context. Before joining Intel, he was a software engineer at Cadence Design Systems from 2017 to 2019, focusing on development of EDA software toolkit. He is conducting research in cybersecurity and machine learning for critical infrastructures under the supervision of Prof. Salman Toor and Prof. André Teixeira. His research interests include security and privacy, distributed computing, machine learning and 5G telecom technologies.
   topics: 
@@ -96,7 +85,7 @@
   education1: 
 
 - name: Usama Zafar
-  photo: Usama.jpg
+  photo: bio-photo.jpg
   info: Ph.D. student, started February 2023
   short_bio: Usama Zafar is a Ph.D. student at the Division of Scientific Computing, Department of Information Technology, Uppsala University, Sweden. He received his Bachelor’s Degree in Computer Software Engineering from National University of Sciences and Technology (NUST), Islamabad, Pakistan. He completed his Master’s Degree in Advanced Computing Science from Tsinghua University, Beijing, China. Usama has worked at Netsol Technologies for two years, focusing on research and development of FinTech products. He is currently conducting research in secure federated machine learning under the supervision of Prof. Salman Toor and Prof. André Teixeira. His research interests include distributed computing, security and privacy, distributed and federated machine learning.
   topics: 
