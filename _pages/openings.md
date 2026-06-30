@@ -22,15 +22,15 @@ Currently, we are expanding our group and are looking for passionate and talente
 
 
 ### Applications for PhD positions
-Prospective PhD candidates should apply through the IISc admissions process for the August (annual) and January (mid-year) intakes. Applications for these cycles typically open around March and September, respectively. Interested candidates are welcome to contact us (please send an [email](mailto:andre.teixeira@it.uu.se)) in advance with their CV and a brief statement of research interests to explore potential opportunities in our group. All admissions at IISc are advertised at the [university website](https://admissions.iisc.ac.in/).
+Prospective PhD candidates should apply through the IISc admissions process for the August (annual) and January (mid-year) intakes. Applications for these cycles typically open around March and September, respectively. All admissions at IISc are advertised at the [university website](https://admissions.iisc.ac.in/).
 
 Students having external funding like INSPIRE, UGC NET(JRF) are encouraged to apply.
 
 
 ### Applications for Postdoc positions
-We welcome applications from candidates with a background in physics, and electrical engineering. Desirable qualifications include:
+We welcome applications from candidates with a background in physics, and electrical engineering. 
 
-clean room experience, device fabrication, theory and experimental research in quantum optics, atomic physics, integrated photonics, micro-electro-mechanical systems.
+Desirable qualifications include: Clean room experience/device fabrication, theory and experimental research in quantum optics, atomic physics, integrated photonics, micro-electro-mechanical systems.
 
 Here is the list of a few funding opportunities:
 
@@ -50,8 +50,7 @@ We are happy to host students in our lab over the summer (May – July). Applica
 
 Exceptional students may be considered for an internship outside this program.
 
-We can also host motivated students under the CeNSE research experience program. Details can be found in [here]
-(https://www.cense.iisc.ac.in/ReserachExperienceProgram/)
+We can also host motivated students under the CeNSE research experience program. Details can be found in [here](https://www.cense.iisc.ac.in/ReserachExperienceProgram/)
 
 
 
