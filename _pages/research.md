@@ -21,7 +21,7 @@ The technologies we develop have applications that extend beyond quantum systems
 
 [//]: # (For a high-level summary of a selection of our results, see [Research Results](research_results).)
 
-Have a look at a video from one of the leading start-ups in trapped-ion quantum hardware ["Quantinuum"](https://www.quantinuum.com/) to gain an overview of current research efforts and the state-of-the-art platform in the field.. You can find some of our recent research themes described at the end of this page.
+Have a look at a video from one of the leading start-ups in trapped-ion quantum hardware [Quantinuum](https://www.quantinuum.com/) to gain an overview of current research efforts and the state-of-the-art platform in the field.. You can find some of our recent research themes described at the end of this page.
 
 ## Trapped-Ion Quantum Hardware Overview
 {% include youtubePlayer.html id="6ZIdE9VnvfM" %}
