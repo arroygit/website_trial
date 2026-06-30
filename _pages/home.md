@@ -49,6 +49,8 @@ Our work is interdisciplinary, drawing on the fundamental physics of atom–ligh
 
 </div>
 
+**We are associated with the following research themes at IISc:**
+[IISc Quantum Technology Initiative](https://iqti.iisc.ac.in/)
 
 **We are looking for driven PhD students, Postdocs, Masters and Undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
