@@ -50,7 +50,7 @@ Our work is interdisciplinary, drawing on the fundamental physics of atom–ligh
 </div>
 
 
-**We are looking for driven new PhD students, Postdocs, Masters and Undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are looking for driven PhD students, Postdocs, Masters and Undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 ### Our support
