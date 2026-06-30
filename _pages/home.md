@@ -38,7 +38,12 @@ Our vision is to develop technologies that enable the miniaturization of atom-ba
 
 
 ### Research
-Our work is interdisciplinary, drawing on the basic physics of atom-light interaction, and leveraging the integrated photonics and micro electro mechanical systems platforms. In our research, we use micro and nano fabrication tools for device fabrication and metrology, state-of-the-art laser and electronic control systems, ultra-high vacuum and cryogenic technologies, device packaging for integrated micro-systems, alongside numerical and theoretical techniques. You can find an overview of some of our research themes at our [Research page](research).
+
+<div style="text-align: justify;">
+
+Our work is interdisciplinary, drawing on the fundamental physics of atom–light interactions while leveraging integrated photonics and microelectromechanical systems (MEMS). In our research, we use micro- and nanofabrication techniques for device fabrication and metrology, state-of-the-art laser and electronic control systems, ultra-high-vacuum and cryogenic technologies, packaging methods for integrated microsystems, and numerical as well as theoretical approaches. You can find an overview of some of our research themes on our [Research page](research).
+
+</div>
 
 
 **We are looking for driven new PhD students, Postdocs, Masters and Undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
