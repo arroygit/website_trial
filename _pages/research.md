@@ -10,6 +10,7 @@ permalink: /research/
 # Our Research
  <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Innovation at nexus.png" style="float: left; width: 200px; margin: 0 15px 10px 0;"/>
 
+<div style="text-align: justify;">
 Our vision is to develop technologies that enable the miniaturization of atom-based systems into platforms that are scalable, compact, energy-efficient, and robust to unavoidable external perturbations. By engineering reliable, high-performance quantum systems, we aim to access previously unexplored regimes and address pressing challenges in the field, enabling both fundamental scientific discovery and technological advances in quantum computing and precision metrology.
 
 Our work is interdisciplinary, drawing on the fundamental physics of atom–light interactions while leveraging integrated photonics and microelectromechanical systems (MEMS). In our research, we use micro- and nanofabrication techniques for device fabrication and metrology, state-of-the-art laser and electronic control systems, ultra-high-vacuum and cryogenic technologies, packaging methods for integrated microsystems, and numerical as well as theoretical approaches. 
