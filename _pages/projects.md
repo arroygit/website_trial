@@ -35,7 +35,7 @@ Their funding supports our work in research, education, and outreach.
 
 **Awarded to:** {{project.lead}}
 
-**USLC Members:** {{project.member}}
+**APIC Members:** {{project.member}}
 
 <div class="btn-group">
   <a class="btn-abstract" data-toggle="collapse" href="#{{project.key}}-abs">**Popular Abstract**</a>
@@ -74,7 +74,7 @@ Their funding supports our work in research, education, and outreach.
 
 **Awarded to:** {{project.lead}}
 
-**USLC Members:** {{project.member}}
+**APIC Members:** {{project.member}}
 
 <div class="btn-group">
   <a class="btn-abstract" data-toggle="collapse" href="#{{project.key}}-abs">**Popular Abstract**</a>
