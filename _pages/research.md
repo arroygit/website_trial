@@ -8,11 +8,13 @@ permalink: /research/
 ---
 
 # Our Research
- <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Innovation at nexus.png" style="float: left; width: 150px; margin: 0 15px 10px 0;"/>
+ <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/Innovation at nexus.png" style="float: left; width: 200px; margin: 0 15px 10px 0;"/>
 
-Our vision is to develop methodologies for designing intelligent autonomous decision-making systems that are secure and resilient against malicious adversaries and natural failures. 
+Our vision is to develop technologies that enable the miniaturization of atom-based systems into platforms that are scalable, compact, energy-efficient, and robust to unavoidable external perturbations. By engineering reliable, high-performance quantum systems, we aim to access previously unexplored regimes and address pressing challenges in the field, enabling both fundamental scientific discovery and technological advances in quantum computing and precision metrology.
 
-To do so, we look into these sytems from a security perspective, under various adversary models. Specifically, we develop techniques to assess the risk (i.e., impact and likelihood) of adversaries and failures, and propose methodologies to design and systematically deploy defense measures to prevent, detect, and mitigate malicious attacks and natural disruptive events. In our research, we combine methodologies from cybersecurity, control theory, optimization and machine learning, game-theory and networked systems.
+Our work is interdisciplinary, drawing on the fundamental physics of atom–light interactions while leveraging integrated photonics and microelectromechanical systems (MEMS). In our research, we use micro- and nanofabrication techniques for device fabrication and metrology, state-of-the-art laser and electronic control systems, ultra-high-vacuum and cryogenic technologies, packaging methods for integrated microsystems, and numerical as well as theoretical approaches. 
+
+The technologies we develop have applications that extend beyond quantum systems to, e.g. visible and ultra-violet integrated photonics, co-packaged optics, integrated optical sources and amplifiers.
 
 [//]: # (For a high-level summary of a selection of our results, see [Research Results](research_results).)
 
