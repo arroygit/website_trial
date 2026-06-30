@@ -14,8 +14,8 @@ permalink: /openings
 
 
 
-**Fascinated by quantum physics and possess strong engineering skills? **
-Coming together is a beginning, keeping together is progress, and working together is success.
+**Fascinated by quantum physics and possess strong engineering skills?**
+_Coming together is a beginning, keeping together is progress, and working together is success._
 
 We are always looking for passionate and talented graduate students and postdoctoral scholars to join our group. If you are interested in pushing the frontiers of atom-based quantum technologies, integrated photonics and microsystems, please contact 
 
