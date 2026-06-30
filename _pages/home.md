@@ -59,7 +59,7 @@ We are grateful for the funding from the [Indian Institute of Science](https://w
 <div class="row">
 
 <div class="col-sm-3 clearfix vcenter">
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UU_logo_4f125px.png" style="width: 125px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/iisc_logo.png" style="width: 125px">
 
 </div>
 
