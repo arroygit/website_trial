@@ -9,22 +9,15 @@ permalink: /openings
 # Open positions
 [//]: # (At the moment, we do not have any open positions.)
 
-**At the moment, we have the following positions open:**
+[//]: # **At the moment, we have the following positions open:**
 * **Deadline April 29, 2026:** 1 PhD position for a [MSCA Doctoral Student in the SecReSy4You Network on Critical Cyber-Physical Systems Security and Resilience, with a Focus on Secure Control Systems under Uncertainty](https://uu.varbi.com/en/what:job/jobID:917304/)
 
 
-[//]: # (Our vision is to develop methodologies for designing intelligent autonomous decision-making systems that are secure and resilient against malicious adversaries.)
 
+**Fascinated by quantum physics and possess strong engineering skills? **
+Coming together is a beginning, keeping together is progress, and working together is success.
 
-
-## Local thesis projects:
-We are always looking for new group members with passion, talent, and grit!
-
-You will have the chance to work on basic and applied research at the intersection of cybersecurity, control theory, and machine learning. 
-
-You will take an acive role in determining the important and interesting research questions to tackle, creating novel scientific methodologies and tailoring them for specific practical applications, developing new adversary models and defense mechanisms, and evaluating the proposed methods on experimental setups.
-
-
+We are always looking for passionate and talented graduate students and postdoctoral scholars to join our group. If you are interested in pushing the frontiers of atom-based quantum technologies, integrated photonics and microsystems, please contact 
 
 
 ### Applications for PhD and Postdoc positions
