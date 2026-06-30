@@ -9,8 +9,7 @@ permalink: /projects/
 # Our Funding
 We are grateful to the following organizations that generously fund our activities:
 - [Indian Institute of Science](https://www.iisc.ac.in/),
-	#- [UU Graduate School in Cybersecurity](http://www.it.uu.se/research/research-arenas/security/graduate_school), an #initiative from the Department of Information Technology,
-#- [Knut and Alice Wallenberg Foundation](https://kaw.wallenberg.org/) ([Wallenberg Academy Fellow]#(https://kaw.wallenberg.org/en/andre-teixeira)), 
+
 
 
 <div class="row">
