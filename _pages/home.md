@@ -7,7 +7,7 @@ permalink: /
 ---
 
 ### Vision
-Our vision is to develop methodologies for designing intelligent autonomous decision-making systems that are secure and resilient against malicious adversaries and natural failures. 
+Our vision is to develop technologies that enable the miniaturization of atom-based systems into platforms that are scalable, compact, energy-efficient, and robust against unavoidable environmental perturbations. By engineering such reliable and high-performance systems, we aim to unlock previously inaccessible regimes for both fundamental scientific exploration and technological innovation in quantum computing, and precision metrology.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <ol class="carousel-indicators">
@@ -38,13 +38,10 @@ Our vision is to develop methodologies for designing intelligent autonomous deci
 
 
 ### Research
-Our research incorporates elements from cybersecurity, control theory, optimization and machine learning, reinforcement learning, game-theory and networked / distributed systems. You can find an overview of some of our research themes at our [Research page](research).
+Our work is interdisciplinary, drawing on the basic physics of atom-light interaction, and leveraging the integrated photonics and micro electro mechanical systems platforms. In our research, we use micro and nano fabrication tools for device fabrication and metrology, state-of-the-art laser and electronic control systems, ultra-high vacuum and cryogenic technologies, device packaging for integrated micro-systems, alongside numerical and theoretical techniques. You can find an overview of some of our research themes at our [Research page](research).
 
 
-### Scientific environment
-We are a dynamic research group at the [Centre for Nano Science and Engineering, Indian Institute of Science](https://www.iisc.ac.in/), Bangalore. We exchange ideas and work with our colleagues from the several of the Department's research areas, namely [Cybersecurity](https://www.it.uu.se/research/cybersecurity), [AI](https://www.it.uu.se/research/artificial-intelligence), [Data Science](https://www.it.uu.se/research/data-science), and [Control Systems](https://www.it.uu.se/research/control-and-dynamical-systems).
-
-**We are looking for driven new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
+**We are looking for driven new PhD students, Postdocs, Masters and Undergraduate students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/openings) **!**
 
 
 ### Our support
