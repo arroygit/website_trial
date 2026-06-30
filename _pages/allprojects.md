@@ -22,7 +22,7 @@ permalink: /allprojects.html
 
 **Awarded to:** {{project.lead}}
 
-**USLC Members:** {{project.member}}
+**APIC Members:** {{project.member}}
 
 
 <div class="btn-group">
