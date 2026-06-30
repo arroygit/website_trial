@@ -18,23 +18,26 @@ permalink: /openings
 **Fascinated by quantum physics and possess strong engineering skills?**
 
 
-We are always looking for passionate and talented graduate students and postdoctoral scholars to join our group. If you are interested in pushing the frontiers of atom-based quantum technologies, integrated photonics, and microsystems, please contact 
+Currently, we are expanding our group and are looking for passionate and talented graduate students and postdoctoral scholars to join our group. If you are interested in pushing the frontiers of atom-based quantum technologies, integrated photonics, and microsystems, please contact 
 
 
 ### Applications for PhD positions
-Applications for fully-funded PhD or Postdoc positions can only be done for a specific advertisement and through the [official application portal](https://uu.varbi.com/). All positions at Uppsala University are advertised at the [university website](https://www.uu.se/en/about-uu/join-us/jobs/).
+Prospective PhD candidates should apply through the IISc admissions process for the August (annual) and January (mid-year) intakes. Applications for these cycles typically open around March and September, respectively. Interested candidates are welcome to contact us (please send an [email](mailto:andre.teixeira@it.uu.se)) in advance with their CV and a brief statement of research interests to explore potential opportunities in our group. All admissions at IISc are advertised at the [university website](https://admissions.iisc.ac.in/).
 
-Other types of PhD and Postdoc positions may also be possible, for instance through the applicant's own fellowship or scholarship. If you are interested in working with us as a PhD student or postdoc, please send an [email](mailto:andre.teixeira@it.uu.se). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate.
 
 ### Applications for Postdoc positions
-Applications for fully-funded PhD or Postdoc positions can only be done for a specific advertisement and through the [official application portal](https://uu.varbi.com/). All positions at Uppsala University are advertised at the [university website](https://www.uu.se/en/about-uu/join-us/jobs/).
+Interested post-doctoral fellows should consider IISc postdoc fellowships and various national funding schemes (NPDF, DS Kothari, CSIR, DBT, Inspire, etc.).
 
-Other types of PhD and Postdoc positions may also be possible, for instance through the applicant's own fellowship or scholarship. If you are interested in working with us as a PhD student or postdoc, please send an [email](mailto:andre.teixeira@it.uu.se). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate.
+Interested candidates are welcome to contact us (please send an [email](mailto:andre.teixeira@it.uu.se)) in advance with their CV and a brief statement of research interests to explore potential opportunities in our group.
 
 
-### Master and Bachelor projects for Uppsala University students
-If you are a Master or Bachelor student at Uppsala University looking for a degree project, contact me (or any group member) per email or drop by my office.
+### Internship and Research Experience at APIC Lab
+We are happy to host students in our lab over the summer (May – July). Applications should ideally be submitted via the CeNSE summer internship program. Details can be found in [here](https://www.cense.iisc.ac.in/ReserachExperienceProgram/).
 
+Exceptional students may be considered for an internship outside this program.
+
+We can also host motivated students under the CeNSE research experience program. Details can be found in [here]
+(https://www.cense.iisc.ac.in/ReserachExperienceProgram/)
 
 
 
