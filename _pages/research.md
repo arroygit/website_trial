@@ -13,9 +13,11 @@ permalink: /research/
 <div style="text-align: justify;">
 Our vision is to develop technologies that enable the miniaturization of atom-based systems into platforms that are scalable, compact, energy-efficient, and robust to unavoidable external perturbations. By engineering reliable, high-performance quantum systems, we aim to access previously unexplored regimes and address pressing challenges in the field, enabling both fundamental scientific discovery and technological advances in quantum computing and precision metrology.
 
-<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/physics_to_engineering.png" style="float: left; width: 400px; margin: 0 15px 10px 0;"/>
+
 
 Our work is interdisciplinary, drawing on the fundamental physics of atom–light interactions while leveraging integrated photonics and microelectromechanical systems (MEMS). In our research, we use micro- and nanofabrication techniques for device fabrication and metrology, state-of-the-art laser and electronic control systems, ultra-high-vacuum and cryogenic technologies, packaging methods for integrated microsystems, and numerical as well as theoretical approaches. 
+
+<img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/logopic/physics_to_engineering.png" style="float: right; width: 400px; margin: 0 15px 10px 0;"/>
 
 The technologies we develop have applications that extend beyond quantum systems to, e.g. visible and ultra-violet integrated photonics, co-packaged optics, integrated optical sources and amplifiers.
 
