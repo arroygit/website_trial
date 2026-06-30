@@ -43,7 +43,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {:/comment}
 
 
-## Staff
+## PhD students and Postdocs
 {% for member in site.data.team_members %}
 
 <div class="row">
@@ -69,7 +69,31 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 {% endfor %}
 
+## Project Associates
+{% for member in site.data.pa_members %}
 
+<div class="row">
+
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  
+  <div style='margin-left:20%;'>
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  
+  <p style="font-size:.8em">{{ member.short_bio }}</p>
+  </div>
+
+  <p style="clear:both;"></p>
+  <button class="button black" onclick="window.location.href='{{ member.website }}'" type="button">
+  {{ member.name }}'s Personal Website</button>
+
+</div>
+
+</div>
+
+
+{% endfor %}
 
 ### Master and Bachelor Students
 {% assign number_printed = 0 %}
@@ -139,7 +163,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 
-### Former visitors, BSc/MSc students
+### Former visitors, Bachelors and Masters students
 <div class="row">
 
 {::comment}
