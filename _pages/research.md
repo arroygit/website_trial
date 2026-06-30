@@ -17,6 +17,8 @@ Our work is interdisciplinary, drawing on the fundamental physics of atom–ligh
 
 The technologies we develop have applications that extend beyond quantum systems to, e.g. visible and ultra-violet integrated photonics, co-packaged optics, integrated optical sources and amplifiers.
 
+</div>
+
 [//]: # (For a high-level summary of a selection of our results, see [Research Results](research_results).)
 
 Have a look at a popular science video about our research on developing secure control systems. You can also find some of our recent research themes described at the end of this page.
