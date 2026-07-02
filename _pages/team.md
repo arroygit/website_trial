@@ -184,7 +184,7 @@ permalink: /team/
 {% endif %}
 
 
-### Former visitors, Bachelors and Masters students
+### Former Visitors, Bachelors and Masters students
 <div class="row">
 
 {::comment}
@@ -196,7 +196,7 @@ permalink: /team/
 </div>
 {:/comment}
 
-
+{::comment}
 <div class="col-sm-12 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
