@@ -44,11 +44,12 @@ Here is the list of a few funding opportunities:
 
 Interested candidates are welcome to contact us (please send an [email](mailto:andre.teixeira@it.uu.se)) in advance with their CV and a brief statement of research interests to explore potential opportunities in our group.
 
+### IISc Student Projects/Thesis
+IISc students looking for project opportunities are welcome to write to [email](mailto:andre.teixeira@it.uu.se)). For M.Tech. positions, students must already be enrolled in students must already be enrolled in one of the M.Tech. programmes associated with the department.
+
 
 ### Internship and Research Experience at APIC Lab
 We are happy to host students in our lab over the summer (May – July). Applications should ideally be submitted via the CeNSE summer internship program. Details can be found in [here](https://www.cense.iisc.ac.in/ReserachExperienceProgram/).
-
-Exceptional students may be considered for an internship outside this program.
 
 We can also host motivated students under the CeNSE research experience program. Details can be found in [here](https://www.cense.iisc.ac.in/ReserachExperienceProgram/)
 
