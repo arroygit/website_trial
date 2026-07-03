@@ -17,7 +17,8 @@
   hasimage: 1
   width: 70%
   image: FedML2.png
-  description:  Chip-scale atomic clocks has proven to be a suitable approach for privacy-preserving machine learning across a large number of heterogeneous devices. 
+  description:  Chip-scale atomic clocks has proven to be a suitable approach for.  to miniaturize to a chip-scale device the three largest packages in the Yb clock. First, the vacuum chamber that holds the atoms. Second, the frequency comb. Third, the high finesse cavity on which we lock the clock laser.
+ 
   authors:  
   year: 2026
   tag: 10002
@@ -32,7 +33,7 @@
   hasimage: 1
   width: 60%
   image: GCM.jpg
-  description:  "Artificial pancreas are envisioned medical systems whose function is to automatically regulate the blood glucose levels in patients with diabetes, with little to none human initervention. At the core of these systems we have an intellligent device autonomously deciding how much synthetic insulin and glucagon to infuse into the body through infusion pumps, based on data received from sensors located thoughout the body measuring, for instance, blood glucose levels in real-time. Data exchange among the controlling device, the pumps, and the sensors is critical. The whole system must operate safely, even in the presence of adversaries tampering with the communication or devices. \n\nIn this line of research, we develop schemes to monitor the sensor reading to detect anomalies, and distinguish them from natural unknown disturbances, such as meal intakes, physical exercise, among others."
+  description:  "In this line of research, we develop platforms to ."
   authors:  
   year: 2026
   tag: 10003
