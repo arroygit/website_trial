@@ -3,7 +3,7 @@
   hasimage: 1
   width: 50%
   image: cvar.png
-  description: The aim within this theme is to to create novel methodologies addressing cybersecurity problems under uncertainty in learning and control systems. A core element of this research is the development of novel *probabilistic risk metrics* and optimization-based design methods that *jointly consider the impact and the detectability constraints of attacks*, as well as model uncertainty and prior beliefs on the adversary model.
+  description: The aim within this theme is to 
   authors:  
   year: 2026
   tag: 10001
@@ -17,7 +17,7 @@
   hasimage: 1
   width: 70%
   image: FedML2.png
-  description:  "Federated machine learning (FedML) has proven to be a suitable approach for privacy-preserving machine learning across a large number of heterogeneous devices. Our group addresses concerns related to security and privacy in federated machine learning against model poisoning and information leakage attacks. The approach is centered around developing new theories and methodologies to achieve two main aims: secure aggregation of local models under poisoning attacks; private distributed aggregation of local models."
+  description:  Chip-scale atomic clocks has proven to be a suitable approach for privacy-preserving machine learning across a large number of heterogeneous devices. 
   authors:  
   year: 2026
   tag: 10003
