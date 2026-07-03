@@ -1,11 +1,11 @@
 - title: "Integrated optical addressing and control for Trapped Ions and Cold Atoms"
-  key: "secmetrics"
+  key: "atompic"
   hasimage: 1
   width: 50%
   image: cvar.png
   description: The aim within this theme is to to create novel methodologies addressing cybersecurity problems under uncertainty in learning and control systems. A core element of this research is the development of novel *probabilistic risk metrics* and optimization-based design methods that *jointly consider the impact and the detectability constraints of attacks*, as well as model uncertainty and prior beliefs on the adversary model.
   authors:  Sribalaji C. Anand, Anh Tung Nguyen, André M. H. Teixeira
-  year: 2019
+  year: 2026
   tag: 10001
   highlight: 1
   news1:
@@ -13,13 +13,13 @@
   long: 0
 
 - title: "Integrated Atomic Microsystems"
-  key: "secfedml"
+  key: "intmicro"
   hasimage: 1
   width: 70%
   image: FedML2.png
   description:  "Federated machine learning (FedML) has proven to be a suitable approach for privacy-preserving machine learning across a large number of heterogeneous devices. Our group addresses concerns related to security and privacy in federated machine learning against model poisoning and information leakage attacks. The approach is centered around developing new theories and methodologies to achieve two main aims: secure aggregation of local models under poisoning attacks; private distributed aggregation of local models."
   authors:  Usama Zafar, Javad Parsa, Salman Toor, André M. H. Teixeira
-  year: 2023
+  year: 2026
   tag: 10003
   highlight: 1
   news1:
@@ -28,13 +28,13 @@
 
 
 - title: "Integrated Light sources for atom-light interaction"
-  key: "secpancreas"
+  key: "intlasers"
   hasimage: 1
   width: 60%
   image: GCM.jpg
   description:  "Artificial pancreas are envisioned medical systems whose function is to automatically regulate the blood glucose levels in patients with diabetes, with little to none human initervention. At the core of these systems we have an intellligent device autonomously deciding how much synthetic insulin and glucagon to infuse into the body through infusion pumps, based on data received from sensors located thoughout the body measuring, for instance, blood glucose levels in real-time. Data exchange among the controlling device, the pumps, and the sensors is critical. The whole system must operate safely, even in the presence of adversaries tampering with the communication or devices. \n\nIn this line of research, we develop schemes to monitor the sensor reading to detect anomalies, and distinguish them from natural unknown disturbances, such as meal intakes, physical exercise, among others."
   authors:  Fatih Emre Tosun, André M. H. Teixeira
-  year: 2019
+  year: 2026
   tag: 10002
   highlight: 1
   news1:
