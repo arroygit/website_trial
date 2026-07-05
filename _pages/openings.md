@@ -22,7 +22,7 @@ Currently, we are expanding our group and are looking for passionate and talente
 
 
 ### Applications for PhD positions
-Prospective PhD candidates should apply through the IISc admissions process for the August (annual) and January (mid-year) intakes. Applications for these cycles typically open around March and September, respectively. All admissions at IISc are advertised at the [university website](https://admissions.iisc.ac.in/). More information can be found [here](https://www.cense.iisc.ac.in/for-prospective-students/).
+Prospective PhD candidates should apply through the IISc admissions process for the August (annual) and January (mid-year/ limited) intakes. Applications for these cycles typically open around March and September, respectively. All admissions at IISc are advertised at the [university website](https://admissions.iisc.ac.in/). More information can be found [here](https://www.cense.iisc.ac.in/for-prospective-students/).
 
 Students having external funding like INSPIRE, UGC NET(JRF) are encouraged to apply.
 
