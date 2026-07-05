@@ -22,7 +22,7 @@ Currently, we are expanding our group and are looking for passionate and talente
 
 
 ### Applications for PhD positions
-Prospective PhD candidates should apply through the IISc admissions process for the August (annual) and January (mid-year) intakes. Applications for these cycles typically open around March and September, respectively. All admissions at IISc are advertised at the [university website](https://admissions.iisc.ac.in/).
+Prospective PhD candidates should apply through the IISc admissions process for the August (annual) and January (mid-year) intakes. Applications for these cycles typically open around March and September, respectively. All admissions at IISc are advertised at the [university website](https://admissions.iisc.ac.in/). More information can be found [here](https://www.cense.iisc.ac.in/for-prospective-students/).
 
 Students having external funding like INSPIRE, UGC NET(JRF) are encouraged to apply.
 
@@ -49,7 +49,7 @@ IISc students looking for project opportunities are welcome to contact us [email
 
 
 ### Internship and Research Experience at APIC Lab
-We are happy to host students in our lab over the summer (May – July). Applications should ideally be submitted via the CeNSE summer internship program. Details can be found in [here](https://www.cense.iisc.ac.in/ReserachExperienceProgram/).
+We are happy to host students in our lab over the summer (May – July). Applications should ideally be submitted via the CeNSE summer internship program where selections are based on the CeNSE summer/winter school program. Details can be found in [here](https://www.cense.iisc.ac.in/outreach/#summer-internship).
 
 We can also host motivated students under the CeNSE research experience program. Details can be found in [here](https://www.cense.iisc.ac.in/ReserachExperienceProgram/)
 
