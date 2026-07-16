@@ -1,3 +1,9 @@
+---
+layout: page
+title: Team Gallery
+permalink: /team_gallery/
+---
+
 <div id="team-carousel" class="carousel slide" data-ride="carousel">
 
     <ol class="carousel-indicators">
