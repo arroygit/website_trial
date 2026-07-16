@@ -1,3 +1,9 @@
+---
+layout: page
+title: Research Gallery
+permalink: /research_gallery/
+---
+
 <div markdown="0" id="team-carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
 
     <ol class="carousel-indicators">
