@@ -16,7 +16,7 @@
   key: "intmicro"
   hasimage: 1
   width: 70%
-  image: csac_clock.png
+  image: csac.png
   description:  Chip-scale atomic clocks are a successful example of miniaturized atomic systems. We aim to contribute towards similar systems that extend beyond hot atoms to cold atom ensembles, and finally to individually controlled atoms/ions. This entails the integration of multiple subcomponents required in such an assembly and making them power-efficient, compact, and robust from thermal and acoustic aspects. 
  
   authors:  
