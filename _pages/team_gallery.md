@@ -4,8 +4,6 @@ title: Team Gallery
 permalink: /team_gallery/
 ---
 
-</div>
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -32,4 +30,4 @@ permalink: /team_gallery/
         <span class="sr-only">Next</span>
     </a>
 </div>
-</div>
+
