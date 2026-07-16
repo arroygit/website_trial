@@ -1,14 +1,4 @@
----
-layout: page
-title: Team Gallery
-permalink: /team/team_gallery/
----
-
-# Team Gallery
-
-Snapshots from our research group activities, laboratory events, and team moments.
-
-<div markdown="0" id="team-carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+<div id="team-carousel" class="carousel slide" data-ride="carousel">
 
     <ol class="carousel-indicators">
         <li data-target="#team-carousel" data-slide-to="0" class="active"></li>
