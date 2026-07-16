@@ -2,7 +2,7 @@
   key: "atompic"
   hasimage: 1
   width: 50%
-  image: cvar.png
+  image: pic_trap.png
   description: The aim within this theme is to endow microfabricated surface traps with photonic integration. With continuous development in this domain, we aim to replicate the performance of free-space-based optical light delivery, albeit in a compact footprint that is amenable to scalability, paving the way beyond single-zone architectures towards multiple trapping zones, a prerequisite for a large-scale quantum platform.
   authors:  
   year: 2026
@@ -16,7 +16,7 @@
   key: "intmicro"
   hasimage: 1
   width: 70%
-  image: FedML2.png
+  image: csac_clock.png
   description:  Chip-scale atomic clocks are a successful example of miniaturized atomic systems. We aim to contribute towards similar systems that extend beyond hot atoms to cold atom ensembles, and finally to individually controlled atoms/ions. This entails the integration of multiple subcomponents required in such an assembly and making them power-efficient, compact, and robust from thermal and acoustic aspects. 
  
   authors:  
@@ -32,7 +32,7 @@
   key: "intlasers"
   hasimage: 1
   width: 60%
-  image: GCM.jpg
+  image: visible_pic.jpg
   description:  "In this line of research, we aim to develop efficient coherent light sources and amplifiers required to address atomic transitions with the requisite linewidth and frequency referencing. We aim to develop photonic modulators required for laser pulse shaping that is needed for performing quantum operations involving atomic transitions."
   authors:  
   year: 2026
