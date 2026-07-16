@@ -5,7 +5,9 @@ excerpt: "Openings"
 sitemap: false
 permalink: /openings
 ---
- 
+#### _"Coming together is the beginning. Keeping together is progress. Working together is success."_
+
+
 # Open positions
 [//]: # (At the moment, we do not have any open positions.)
 
@@ -53,7 +55,6 @@ We are happy to host students in our lab over the summer (May – July). Applica
 
 We can also host motivated students under the CeNSE research experience program. Details can be found in [here](https://www.cense.iisc.ac.in/ReserachExperienceProgram/)
 
-#### _"Coming together is the beginning. Keeping together is progress. Working together is success."_
 
 <!--
 <figure>
