@@ -56,5 +56,5 @@ We can also host motivated students under the CeNSE research experience program.
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab Team image.png" width="50%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/Lab Team image.png" width="40%">
 </figure>
