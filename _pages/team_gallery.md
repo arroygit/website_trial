@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team Gallery
-permalink: /team/gallery/
+permalink: /team/team_gallery/
 ---
 
 # Team Gallery
