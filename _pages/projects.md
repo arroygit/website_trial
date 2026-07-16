@@ -33,7 +33,7 @@ Their funding supports our work in research, education, and outreach.
 
 **Call:** {{project.category}}, *funded by the* {{ project.agency}}
 
-**Collaborators** {{project.collaborator}}
+**Collaborators:** {{project.collaborator}}
 
 **APIC Members:** {{project.member}}
 
