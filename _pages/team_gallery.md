@@ -20,19 +20,19 @@ Snapshots from our research group activities, laboratory events, and team moment
 
         <div class="item active">
             <img class="img-responsive" 
-            src="{{ site.url }}{{ site.baseurl }}/images/team/team1.jpg" 
+            src="{{ site.url }}{{ site.baseurl }}/images/teampic/team1.jpg" 
             alt="Team photo 1" />
         </div>
 
         <div class="item">
             <img class="img-responsive" 
-            src="{{ site.url }}{{ site.baseurl }}/images/team/team2.jpg" 
+            src="{{ site.url }}{{ site.baseurl }}/images/teampic/team2.jpg" 
             alt="Team photo 2" />
         </div>
 
         <div class="item">
             <img class="img-responsive" 
-            src="{{ site.url }}{{ site.baseurl }}/images/team/team3.jpg" 
+            src="{{ site.url }}{{ site.baseurl }}/images/teampic/team3.jpg" 
             alt="Team photo 3" />
         </div>
 
