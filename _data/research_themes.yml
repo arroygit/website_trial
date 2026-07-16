@@ -32,7 +32,7 @@
   key: "intlasers"
   hasimage: 1
   width: 60%
-  image: visible_pic.jpg
+  image: visible_pic.png
   description:  "In this line of research, we aim to develop efficient coherent light sources and amplifiers required to address atomic transitions with the requisite linewidth and frequency referencing. We aim to develop photonic modulators required for laser pulse shaping that is needed for performing quantum operations involving atomic transitions."
   authors:  
   year: 2026
