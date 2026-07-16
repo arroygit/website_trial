@@ -8,19 +8,19 @@
 
     <div class="item active">
         <img class="img-responsive" 
-        src="{{ site.url }}{{ site.baseurl }}/images/researchpic/team1.jpg" 
+        src="{{ site.url }}{{ site.baseurl }}/images/researchpic/research1.jpg" 
         alt="Team photo 1" />
     </div>
 
     <div class="item">
         <img class="img-responsive" 
-        src="{{ site.url }}{{ site.baseurl }}/images/researchpic/team2.jpg" 
+        src="{{ site.url }}{{ site.baseurl }}/images/researchpic/research2.jpg" 
         alt="Team photo 2" />
     </div>
 
     <div class="item">
         <img class="img-responsive" 
-        src="{{ site.url }}{{ site.baseurl }}/images/researchpic/team3.jpg" 
+        src="{{ site.url }}{{ site.baseurl }}/images/researchpic/research3.jpg" 
         alt="Team photo 3" />
     </div>
 
