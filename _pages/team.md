@@ -116,7 +116,7 @@ permalink: /team/
 
 {% endfor %}
 
-### Master and Bachelor Students
+## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
