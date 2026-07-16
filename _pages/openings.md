@@ -32,7 +32,7 @@ Students having external funding like INSPIRE, UGC NET(JRF) are encouraged to ap
 ### Applications for Postdoc positions
 We welcome applications from candidates with a background in physics, and electrical engineering. 
 
-Desirable qualifications include: Clean room experience/device fabrication, theory and experimental research in quantum optics, atomic physics, integrated photonics, micro-electro-mechanical systems.
+Desirable qualifications include: Device fabrication experience, theory and experimental research in quantum optics, atomic physics, integrated photonics, micro-electro-mechanical systems.
 
 Here is the list of a few funding opportunities:
 
