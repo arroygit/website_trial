@@ -10,11 +10,10 @@ permalink: /publications/
 
 # Publications
 
-(See also the personal webpage of our group members)
 
 ## Group Highlights
 
-(For a full list of publications, see [below](#list-of-publications), and see also the personal webpage of our group members)
+(For a full list of publications, see [below](#list-of-publications))
 
 
 {% assign number_printed = 0 %}
