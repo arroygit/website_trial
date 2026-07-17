@@ -18,7 +18,7 @@ permalink: /team_gallery/
             <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/team2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/imagesgrouppic/team3.png" alt="Slide 3" />
+            <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/team3.png" alt="Slide 3" />
         </div>
     </div>
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
