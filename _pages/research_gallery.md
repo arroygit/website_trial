@@ -16,19 +16,19 @@ permalink: /research_gallery/
 
         <div class="item active">
             <img class="img-responsive" 
-            src="{{ site.url }}{{ site.baseurl }}/images/researchpic/research1.jpg" 
+            src="{{ site.url }}{{ site.baseurl }}/images/researchpic/research1.png" 
             alt="Research photo 1" />
         </div>
 
         <div class="item">
             <img class="img-responsive" 
-            src="{{ site.url }}{{ site.baseurl }}/images/researchpic/research2.jpg" 
+            src="{{ site.url }}{{ site.baseurl }}/images/researchpic/research2.png" 
             alt="Research photo 2" />
         </div>
 
         <div class="item">
             <img class="img-responsive" 
-            src="{{ site.url }}{{ site.baseurl }}/images/researchpic/research3.jpg" 
+            src="{{ site.url }}{{ site.baseurl }}/images/researchpic/research3.png" 
             alt="Research photo 3" />
         </div>
 
