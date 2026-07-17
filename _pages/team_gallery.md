@@ -12,13 +12,13 @@ permalink: /team_gallery/
     </ol>
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/team1.jpg" alt="Slide 1" />
+            <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/team1.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/team2.jpg" alt="Slide 2" />
+            <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/team2.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/imagesgrouppic/team3.jpg" alt="Slide 3" />
+            <img class="img-responsive" src="{{ site.url }}{{ site.baseurl }}/imagesgrouppic/team3.png" alt="Slide 3" />
         </div>
     </div>
     <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
