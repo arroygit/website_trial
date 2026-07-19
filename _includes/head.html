@@ -57,7 +57,7 @@
       color: var(--text-color) !important;
     }
 
-    /* 🟢 EXTENDED & AGGRESSIVE CARD FIXES 
+    /* EXTENDED & AGGRESSIVE CARD FIXES 
        Forces all variations of Bootstrap elements to change their background */
     html.dark-theme .thumbnail,
     html.dark-theme .card,
@@ -78,6 +78,32 @@
     html.dark-theme .card *,
     html.dark-theme .caption * {
       color: var(--text-color) !important;
+    }
+
+    /* FOOTER DARK MODE FIXES 
+       Targets standard tags, classes, IDs, and Bootstrap pinned bottom navigations */
+    html.dark-theme footer,
+    html.dark-theme .footer,
+    html.dark-theme #footer,
+    html.dark-theme .navbar-fixed-bottom {
+      background-color: #121212 !important;
+      background: #121212 !important;
+      border-top: 1px solid #222222 !important;
+      color: var(--text-color) !important;
+    }
+
+    /* Force all layout text nested inside the footer to stay readable */
+    html.dark-theme footer *,
+    html.dark-theme .footer *,
+    html.dark-theme #footer * {
+      color: var(--text-color) !important;
+    }
+
+    /* Subtle accent color color for footer links specifically */
+    html.dark-theme footer a,
+    html.dark-theme .footer a,
+    html.dark-theme #footer a {
+      color: #4da6ff !important;
     }
 
     /* Link readability configuration for dark backgrounds */
