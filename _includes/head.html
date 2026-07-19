@@ -84,43 +84,38 @@
       color: var(--text-color) !important;
     }
 
-    /* 🟢 RE-ENGINEERED FOOTER DARK MODE FIXES 
-       This targets any potential container block inside the footer include file */
-    html.dark-theme footer,
-    html.dark-theme .footer,
+    /* 🟢 SPECIFIC FOOTER OVERRIDES (Fixes Bootstrap .panel-footer) */
     html.dark-theme #footer,
-    html.dark-theme .navbar-fixed-bottom,
-    html.dark-theme body > div:last-of-type,
-    html.dark-theme body > footer:last-child {
+    html.dark-theme #footer .panel-footer {
       background-color: #121212 !important;
       background: #121212 !important;
       border-top: 1px solid #222222 !important;
+      border-color: #222222 !important;
       color: var(--text-color) !important;
     }
 
-    /* Force all layout items nested inside the footer to stay readable */
-    html.dark-theme footer *,
-    html.dark-theme .footer *,
-    html.dark-theme #footer *,
-    html.dark-theme body > div:last-of-type * {
+    /* Target everything within the footer div block (including loose text/breaks) */
+    html.dark-theme #footer * {
       color: var(--text-color) !important;
     }
 
-    /* Bright vibrant blue links specifically for footer navigation elements */
-    html.dark-theme footer a,
-    html.dark-theme .footer a,
-    html.dark-theme #footer a,
-    html.dark-theme body > div:last-of-type a {
+    /* Bright blue styling links specifically inside the footer */
+    html.dark-theme #footer a {
       color: #4da6ff !important;
     }
-    html.dark-theme footer a:hover,
-    html.dark-theme .footer a:hover,
-    html.dark-theme #footer a:hover,
-    html.dark-theme body > div:last-of-type a:hover {
+    html.dark-theme #footer a:hover {
       color: #80bfff !important;
     }
+    
+    /* 💼 Preserve the brand colors for LinkedIn and YouTube icons */
+    html.dark-theme #footer a .fa-linkedin {
+      color: #0077b5 !important;
+    }
+    html.dark-theme #footer a .fa-youtube {
+      color: #ff0000 !important;
+    }
 
-    /* Link readability configuration for the rest of the site content */
+    /* Link readability configuration for standard content pages */
     html.dark-theme a {
       color: #4da6ff;
     }
