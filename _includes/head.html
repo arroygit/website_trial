@@ -57,14 +57,27 @@
       color: var(--text-color) !important;
     }
 
-    /* Fix White Content Boxes/Cards (e.g. Bootstrap thumbnails/wells) */
+    /* 🟢 EXTENDED & AGGRESSIVE CARD FIXES 
+       Forces all variations of Bootstrap elements to change their background */
     html.dark-theme .thumbnail,
     html.dark-theme .card,
     html.dark-theme .caption,
     html.dark-theme .well,
-    html.dark-theme .panel {
+    html.dark-theme .panel,
+    html.dark-theme [class*="card-"],
+    html.dark-theme [class*="thumbnail-"] {
       background-color: #1f1f1f !important;
-      border-color: #333333 !important;
+      background: #1f1f1f !important; /* Overrides shorthand background rules */
+      border: 1px solid #333333 !important;
+      color: var(--text-color) !important;
+    }
+
+    /* Wildcard sweep: Forces every single element nested inside cards/thumbnails 
+       (titles, authors, small tags) to adopt the white text color */
+    html.dark-theme .thumbnail *,
+    html.dark-theme .card *,
+    html.dark-theme .caption * {
+      color: var(--text-color) !important;
     }
 
     /* Link readability configuration for dark backgrounds */
