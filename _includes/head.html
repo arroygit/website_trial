@@ -13,11 +13,18 @@
   {% include analytics.html %}
   {% endif %}
 
-  <!-- 1. Fix the "White Flash" script (Runs before HTML renders) -->
+  <!-- 1. INSTANT THEME INITIALIZATION (Prevents lag and manual refreshes) -->
   <script>
-    if (localStorage.getItem('theme') === 'dark' || (!localStorage.getItem('theme') && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-      document.documentElement.classList.add('dark-theme');
-    }
+    (function() {
+      const currentTheme = localStorage.getItem('theme');
+      if (currentTheme === 'dark') {
+        document.documentElement.classList.add('dark-theme');
+      } else if (currentTheme === 'light') {
+        document.documentElement.classList.remove('dark-theme');
+      } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.classList.add('dark-theme');
+      }
+    })();
   </script>
 
   <!-- 2. Dark Mode Styles -->
@@ -57,8 +64,7 @@
       color: var(--text-color) !important;
     }
 
-    /* EXTENDED & AGGRESSIVE CARD FIXES 
-       Forces all variations of Bootstrap elements to change their background */
+    /* EXTENDED & AGGRESSIVE CARD FIXES */
     html.dark-theme .thumbnail,
     html.dark-theme .card,
     html.dark-theme .caption,
@@ -67,21 +73,18 @@
     html.dark-theme [class*="card-"],
     html.dark-theme [class*="thumbnail-"] {
       background-color: #1f1f1f !important;
-      background: #1f1f1f !important; /* Overrides shorthand background rules */
+      background: #1f1f1f !important;
       border: 1px solid #333333 !important;
       color: var(--text-color) !important;
     }
 
-    /* Wildcard sweep: Forces every single element nested inside cards/thumbnails 
-       (titles, authors, small tags) to adopt the white text color */
     html.dark-theme .thumbnail *,
     html.dark-theme .card *,
     html.dark-theme .caption * {
       color: var(--text-color) !important;
     }
 
-    /* FOOTER DARK MODE FIXES 
-       Targets standard tags, classes, IDs, and Bootstrap pinned bottom navigations */
+    /* FOOTER DARK MODE FIXES */
     html.dark-theme footer,
     html.dark-theme .footer,
     html.dark-theme #footer,
@@ -92,21 +95,19 @@
       color: var(--text-color) !important;
     }
 
-    /* Force all layout text nested inside the footer to stay readable */
     html.dark-theme footer *,
     html.dark-theme .footer *,
     html.dark-theme #footer * {
       color: var(--text-color) !important;
     }
 
-    /* Subtle accent color color for footer links specifically */
     html.dark-theme footer a,
     html.dark-theme .footer a,
     html.dark-theme #footer a {
       color: #4da6ff !important;
     }
 
-    /* Link readability configuration for dark backgrounds */
+    /* Link readability configuration */
     html.dark-theme a {
       color: #4da6ff;
     }
