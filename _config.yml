@@ -11,7 +11,7 @@ email: andre.teixeira@it.uu.se
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Atomic and Photonic Integrated Circuits Laboratory.
 baseurl: ""
-url: "https://arroygit.github.io/website_trial/"
+url: "https://arroygit.github.io/apic_cense_iisc_website/"
 
 include:
   - .htaccess
