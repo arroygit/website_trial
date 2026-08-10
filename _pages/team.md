@@ -49,7 +49,7 @@ permalink: /team/
  <div style="margin-left:20%;">
     <h4>{{ member.name }}</h4>
     <i>{{ member.info }}<br>email: {{ member.email }}</i>
-</div>
+
   
   <p style="font-size:.8em">{{ member.short_bio }}</p>
   </div>
