@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atomic Photonic Integrated Circuits Laboratory - Team</title>
+  <meta name="description" content="Team members">
+  <link rel="stylesheet" href="https://arroygit.github.io/apic_cense_iisc_website//css/main.css">
+  <link rel="canonical" href="https://arroygit.github.io/apic_cense_iisc_website//team/">
+  <link rel="shortcut icon" href="https://arroygit.github.io/apic_cense_iisc_website//images/logopic/favicon.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+  
+  <!-- Google tag (gtag.js) - Google Analytics 4 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-07QGNV4MFV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  // Replace G-XXXXXXXXXX with your actual GA4 Measurement ID
+  gtag('config', 'G-07QGNV4MFV');
+</script>
+
+  
+
+  <!-- 1. INSTANT THEME INITIALIZATION (Prevents lag and manual refreshes) -->
+  <script>
+    (function() {
+      const currentTheme = localStorage.getItem('theme');
+      if (currentTheme === 'dark') {
+        document.documentElement.classList.add('dark-theme');
+      } else if (currentTheme === 'light') {
+        document.documentElement.classList.remove('dark-theme');
+      } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.documentElement.classList.add('dark-theme');
+      }
+    })();
+  </script>
+
+  <!-- 2. Dark Mode Styles -->
+  <style>
+    /* Default variables */
+    :root {
+      --bg-color: #ffffff;
+      --text-color: #1a1a1a;
+    }
+
+    /* Core Dark Mode Color Assignment */
+    html.dark-theme, body.dark-theme {
+      --bg-color: #121212;
+      --text-color: #f5f5f5;
+      background-color: var(--bg-color) !important;
+      color: var(--text-color) !important;
+    }
+
+    body {
+      background-color: var(--bg-color);
+      color: var(--text-color);
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
+
+    /* Force global typography items to invert cleanly */
+    html.dark-theme p, 
+    html.dark-theme h1, 
+    html.dark-theme h2, 
+    html.dark-theme h3, 
+    html.dark-theme h4, 
+    html.dark-theme h5, 
+    html.dark-theme h6, 
+    html.dark-theme li, 
+    html.dark-theme span,
+    html.dark-theme td,
+    html.dark-theme th {
+      color: var(--text-color) !important;
+    }
+
+    /* EXTENDED & AGGRESSIVE CARD FIXES */
+    html.dark-theme .thumbnail,
+    html.dark-theme .card,
+    html.dark-theme .caption,
+    html.dark-theme .well,
+    html.dark-theme .panel,
+    html.dark-theme [class*="card-"],
+    html.dark-theme [class*="thumbnail-"] {
+      background-color: #1f1f1f !important;
+      background: #1f1f1f !important;
+      border: 1px solid #333333 !important;
+      color: var(--text-color) !important;
+    }
+
+    html.dark-theme .thumbnail *,
+    html.dark-theme .card *,
+    html.dark-theme .caption * {
+      color: var(--text-color) !important;
+    }
+
+    /* 🟢 SPECIFIC FOOTER OVERRIDES (Fixes Bootstrap .panel-footer) */
+    html.dark-theme #footer,
+    html.dark-theme #footer .panel-footer {
+      background-color: #121212 !important;
+      background: #121212 !important;
+      border-top: 1px solid #222222 !important;
+      border-color: #222222 !important;
+      color: var(--text-color) !important;
+    }
+
+    /* Target everything within the footer div block (including loose text/breaks) */
+    html.dark-theme #footer * {
+      color: var(--text-color) !important;
+    }
+
+    /* Bright blue styling links specifically inside the footer */
+    html.dark-theme #footer a {
+      color: #4da6ff !important;
+    }
+    html.dark-theme #footer a:hover {
+      color: #80bfff !important;
+    }
+    
+    /* 💼 Preserve the brand colors for LinkedIn and YouTube icons */
+    html.dark-theme #footer a .fa-linkedin {
+      color: #0077b5 !important;
+    }
+    html.dark-theme #footer a .fa-youtube {
+      color: #ff0000 !important;
+    }
+
+    /* Link readability configuration for standard content pages */
+    html.dark-theme a {
+      color: #4da6ff;
+    }
+    html.dark-theme a:hover {
+      color: #80bfff;
+    }
+
+    /* Bootstrap Specific Navigation Bar Styling Overrides */
+    html.dark-theme .navbar-default, body.dark-theme .navbar-default {
+      background-color: var(--bg-color) !important;
+      border-color: #222222 !important;
+    }
+    html.dark-theme .navbar-default .navbar-nav > li > a, body.dark-theme .navbar-default .navbar-nav > li > a {
+      color: var(--text-color) !important;
+    }
+    html.dark-theme .navbar-default .navbar-brand, body.dark-theme .navbar-default .navbar-brand {
+      color: var(--text-color) !important;
+    }
+    
+    /* Dropdown Menus inside Navbar */
+    html.dark-theme .dropdown-menu, body.dark-theme .dropdown-menu {
+      background-color: #1f1f1f !important;
+      border-color: #333333 !important;
+    }
+    html.dark-theme .dropdown-menu > li > a, body.dark-theme .dropdown-menu > li > a {
+      color: #f5f5f5 !important;
+    }
+    html.dark-theme .dropdown-menu > li > a:hover, body.dark-theme .dropdown-menu > li > a:hover {
+      background-color: #333333 !important;
+    }
+  </style>
+
+</head>
+
+
+  <body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+  <div class="container-fluid">
+	<div class="navbar-header">
+	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
+		<span class="sr-only">Toggle navigation</span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+		<span class="icon-bar"></span> 
+	  </button>
+		
+
+    <a class="navbar-brand" href="https://arroygit.github.io/apic_cense_iisc_website//">
+    	<img style="position:relative; top:-25px" src="https://arroygit.github.io/apic_cense_iisc_website//images/logopic/favicon.png" height="40" width="auto" class="d-inline-block align-left" alt=""> 
+    <a class="navbar-brand" href="https://arroygit.github.io/apic_cense_iisc_website//">
+			  Atomic Photonic Integrated Circuits (APIC) Lab
+    </a>
+  	</a>
+	</div>
+	<div class="collapse navbar-collapse" id="navbar-collapse-1">
+	  <ul class="nav navbar-nav navbar-right">
+		<li><a href="https://arroygit.github.io/apic_cense_iisc_website//">Home</a></li>
+		<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Team <b class="caret"></b></a>
+  <ul class="dropdown-menu">
+    <li><a href="https://arroygit.github.io/apic_cense_iisc_website//team">Members</a></li>
+    <li><a href="https://arroygit.github.io/apic_cense_iisc_website//openings">Openings</a></li>
+    <li><a href="https://arroygit.github.io/apic_cense_iisc_website//team_gallery">Team Gallery</a></li>
+  </ul>
+</li>
+		<li><a href="https://arroygit.github.io/apic_cense_iisc_website//publications">Publications</a></li>
+		<li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Research <b class="caret"></b></a>
+  <ul class="dropdown-menu">
+    <li><a href="https://arroygit.github.io/apic_cense_iisc_website//research">Overview</a></li>
+    <li><a href="https://arroygit.github.io/apic_cense_iisc_website//projects">Projects</a></li>
+    <li><a href="https://arroygit.github.io/apic_cense_iisc_website//research_gallery">Research Gallery</a></li>
+  </ul>
+</li>
+    <li><a href="https://arroygit.github.io/apic_cense_iisc_website//teaching">Teaching</a></li>
+		<!--- <li><a href="https://arroygit.github.io/apic_cense_iisc_website//pictures">(Pics)</a></li> --->
+    <!-- 🟢 DARK MODE BUTTON INTEGRATION -->
+    <li>
+        <button id="theme-toggle" aria-label="Toggle dark mode" style="background: none; border: none; padding: 15px; font-size: 1.2rem; cursor: pointer;">
+            🌙
+        </button>
+    </li>
+	  </ul>
+	</div>
+  </div>
+</div>
+
+
+    <div class="container-fluid">
+      <div class="row">
+        <div id="gridid" class="col-sm-12">
+  <style>
+
+.button {
+    clear: left;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 4px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.black {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+}
+
+</style>
+
+<h1 id="group-members">Group Members</h1>
+
+<p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="https://arroygit.github.io/apic_cense_iisc_website//openings">(see openings)</a> <strong>!</strong></p>
+
+<h2 id="principal-investigator">Principal Investigator</h2>
+
+<div class="row">
+
+  <div class="col-sm-12 clearfix">
+    <p><img src="https://arroygit.github.io/apic_cense_iisc_website//images/teampic/bio-photo.jpg" class="img-responsive" width="15%" style="float: left" /></p>
+
+    <div style="margin-left:20%;">
+      <h4>Arkadev Roy</h4>
+      <p><i>Assistant Professor, Principal Investigator <!--<br>email: <arroy@iisc.ac.in></i> --></i></p>
+
+      <p style="font-size:.8em">Arkadev Roy is an Assistant Professor at the Centre for Nano Science and Engineering (CeNSE) at the Indian Institute of Science, Bangalore. He received the B.Tech. degree in Electronics and Electrical Communications Engineering from the Indian Institute of Technology, Kharagpur in 2018. He received the M. S. and Ph. D. degrees in Electrical Engineering from the California Institute of Technology, Pasadena, United States, in 2023. From 2023 to 2025, he was a Postdoctoral Researcher at the Department of Electrical Engineering and Computer Science, University of California, Berkeley, United States. From 2025 to 2026, he was a Postdoctoral Researcher at the ETHZ-PSI Quantum Computing Hub, Switzerland.</p>
+    </div>
+
+    <p style="clear:both;"></p>
+    <p><button class="button black" onclick="window.location.href=''" type="button">
+  Arkadev Roy’s Personal Website</button></p>
+
+  </div>
+
+</div>
+
+<h2 id="phd-students-and-postdocs">PhD students and Postdocs</h2>
+
+<h2 id="project-associates">Project Associates</h2>
+
+<h2 id="master-and-bachelor-students">Master and Bachelor Students</h2>
+
+<h2 id="alumni">Alumni</h2>
+<h3 id="former-phds-and-postdocs">Former PhDs and Postdocs</h3>
+
+<h3 id="former-visitors-bachelors-and-masters-students">Former Visitors, Bachelors and Masters students</h3>
+<div class="row">
+
+  <!-- <div class="col-sm-4 clearfix">
+<h4>Visitors</h4>
+
+
+
+</div> -->
+
+  <!-- <div class="col-sm-12 clearfix">
+<h4>Master students</h4>
+
+</div>
+
+{::comment}
+<div class="col-sm-4 clearfix">
+<h4>Bachelor Students</h4>
+
+</div> -->
+
+</div>
+
+
+</div>
+
+      </div>
+    </div>
+
+    <div id="footer" class="panel">
+  <div class="panel-footer">
+    <div class="container-fluid">
+      <div class="row">
+
+        <div class="col-sm-5">
+          <p>&copy; 2026 Atomic Photonic Integrated Circuits Laboratory.</p>
+          <p>We are part of the <a href="https://www.cense.iisc.ac.in/">Centre for Nano Science and Engineering (CeNSE)</a> at <a href="https://www.iisc.ac.in/">Indian Institute of Science</a>.</p>
+        </div>
+
+        <div class="col-sm-5">
+          Contact:<br />
+          Office: SF-02 (CeNSE Building) , APIC Lab: Room<br />
+          CeNSE, Indian Institute of Science<br />
+          CV Raman Avenue, 560012 Bangalore, India<br />
+          (<a href="https://maps.app.goo.gl/4ntUKd77sBokYiZv6">Maps</a>,
+          <a href="https://www.iisc.ac.in/about/general-information/how-to-reach-iisc/">Directions</a>)
+        </div>
+
+        <div class="col-sm-2">
+          Follow us:<br /><br />
+          <a href="https://www.linkedin.com/in/abcd@arka" target="_blank" rel="noopener noreferrer" style="font-size: 28px; margin-right: 12px; color: #0077b5;">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="https://www.youtube.com/abcd@arka" target="_blank" rel="noopener noreferrer" style="font-size: 28px; color: #ff0000;">
+            <i class="fab fa-youtube"></i>
+          </a>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://arroygit.github.io/apic_cense_iisc_website//js/bootstrap.min.js"></script>
+
+
+    <script>
+      const toggleButton = document.getElementById('theme-toggle');
+
+      // 🟢 The head script handles the initial load, so this script only 
+      // needs to safely listen for click events on the button.
+      if (toggleButton) {
+          toggleButton.addEventListener('click', () => {
+              // Target documentElement (<html>) to instantly sync with your CSS rules
+              document.documentElement.classList.toggle('dark-theme');
+              
+              let theme = 'light';
+              if (document.documentElement.classList.contains('dark-theme')) {
+                  theme = 'dark';
+              }
+              localStorage.setItem('theme', theme);
+          });
+      }
+    </script>
+
+  </body>
+</html>
